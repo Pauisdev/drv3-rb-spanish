@@ -1,0 +1,69 @@
+{
+[0] <PAD=【○】>Confirmar
+[1] <PAD=【×】>Regresar
+[2] <PAD=【Ｒ上下】>Scroll
+[3] <PAD=【△】>Change tab
+[4] <PAD=【□】>Change playback
+[5] <PAD=【□】>Detalles
+[6] <PAD=【○】>Siguiente
+[7] <PAD=【○】>ＢＥＴ
+[8] <PAD=【△】>MAX BET
+[9] <PAD=【△】>Iniciar
+[10] <PAD=【□】>Detalles
+[11] Mostrar Pregunta
+[12] Ocultar Pregunta
+[13] <PAD=【Ｌ１】【Ｒ１】>Turn page
+[14] <PAD=【Ｌ←回】>Left dial
+[15] <PAD=【Ｒ→回】>Right dial
+[16] <PAD=【△】>Abrir
+[17] <PAD=【Ｌ１】> <PAD=【Ｒ１】>ＢＥＴ×１０
+[18] <PAD=【Ｐ上下】>ＢＥＴ
+[19] <PAD=【Ｐ上下】>ＢＥＴ   <PAD=【Ｌ１】> <PAD=【Ｒ１】>ＢＥＴ×１０   <PAD=【△】>MAX BET
+[20] <PAD=【○】>Dummy
+[21] <PAD=【○】>Dummy
+[22] <PAD=【○】>Dummy
+[23] <PAD=【○】>Dummy
+[24] <PAD=【○】>Dummy
+[25] <PAD=【○】>Dummy
+[26] <PAD=【○】>Dummy
+[27] <PAD=【○】>Dummy
+[28] <PAD=【○】>Dummy
+[29] <PAD=【○】>Dummy
+[30] <PAD=【○】>Dummy
+[31] <PAD=【○】>Dummy
+[32] <PAD=【○】>Dummy
+[33] <PAD=【○】>Dummy
+[34] <PAD=【○】>Dummy
+[35] <PAD=【○】>Dummy
+[36] <PAD=【○】>Dummy
+[37] <PAD=【○】>Dummy
+[38] <PAD=【○】>Dummy
+[39] <PAD=【○】>Dummy
+[40] <PAD=【○】>Dummy
+[41] <PAD=【○】>Dummy
+[42] <PAD=【○】>Dummy
+[43] <PAD=【○】>Dummy
+[44] <PAD=【○】>Dummy
+[45] <PAD=【○】>Dummy
+[46] <PAD=【○】>Dummy
+[47] <PAD=【○】>Dummy
+[48] <PAD=【○】>Dummy
+[49] <PAD=【○】>Dummy
+[50] <PAD=【○】>Dummy
+[51] <PAD=【○】>Dummy
+[52] <PAD=【○】>Dummy
+[53] <PAD=【○】>Dummy
+[54] <PAD=【○】>Dummy
+[55] <PAD=【○】>Dummy
+[56] <PAD=【○】>Dummy
+[57] <PAD=【○】>Dummy
+[58] <PAD=【○】>Dummy
+[59] <PAD=【○】>Dummy
+[60] <PAD=【○】>Dummy
+[61] <PAD=【○】>Dummy
+[62] <PAD=【○】>Dummy
+[63] <PAD=【○】>Dummy
+[64] <PAD=【○】>Dummy
+[65] <PAD=【○】>Dummy
+[66] <PAD=【○】>Dummy
+}

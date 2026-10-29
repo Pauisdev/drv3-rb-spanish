@@ -1,0 +1,22 @@
+{
+[0] Aventurera Definitiva
+[1] Mago Definitivo
+[2] Inventor Definitivo
+[3] Entomólogo Definitivo
+[4] Maestro Definitivo de Aikido
+[5] Cuidador de Niños Definitivo
+[6] Cosplayer Definitivo
+[7] Antropólogo Definitivo
+[8] Detective Definitiva
+[9] ??? Definitiva
+[10] Pianista Definitivo
+[11] Pro De Tenis Definitiva
+[12] Maid Definitiva
+[13] Líder Suprema Definitiva
+[14] Astronauta Definitiva
+[15] Artista Definitiva
+[16] Ultimate Survivor
+[17] Ultimate Assassin
+[18] Ultimate Lucky Student
+[19] Ultimate ???
+}

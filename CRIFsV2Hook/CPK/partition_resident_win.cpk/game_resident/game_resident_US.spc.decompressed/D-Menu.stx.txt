@@ -1,0 +1,84 @@
+{
+[0] Dificultad de la lógica
+[1] Dificultad de la acción
+[2] Para aquellos que desean disfrutar la historia.
+[3] Dificultad normal para un pequeño desafío.
+[4] ¡Penalizaciones más duras y más elecciones, pero también más recompenzas!
+[5] Menos acción para aquellos que solo desean disfrutar la historia.
+[6] Dificultad normal con la dosis justa de acción.
+[7] ¡Acción emocionante y caótica, pero también más recompenzas!
+[8] Amable
+[9] Normal
+[10] Cruel
+[11] Vale
+[12] Elige la dificultad y comienza el juego.
+[13] Elige la dificultad y regresa a la preparación para el juicio.
+[14] Si inicias un nuevo juego, el progreso de Love Across the\nUniverse se perderá.\n¿Continuar?
+[15] Iniciar desde el comienzo del capítulo
+[16] Iniciar desde Vida Mortal
+[17] Iniciar desde el Juicio Escolar
+[18] Mira tus mejores resultados
+[19] Disfruta la historia desde el comienzo del capítulo.
+[20] Disfruta la historia desde la investigación.
+[21] Disfruta la historia desde el Juicio Escolar.
+[22] Mira tus mejores resultados de los Juicios Escolares.
+[23] Por favor, elige el capítulo por dónde comenzar.
+[24] ¿Continuar por donde lo dejaste?
+[25] Prólogo
+[26] Capítulo 1
+[27] Capítulo 2
+[28] Capítulo 3
+[29] Capítulo 4
+[30] Capítulo 5
+[31] Capítulo 6
+[32] Epílogo
+[33] FIN
+[34] Vida Escolar
+[35] Vida Escolar: Vida Diaria
+[36] Vida Escolar: Vida Diaria (Tiempo Libre)
+[37] Vida Escolar: Vida Mortal
+[38] Vida Escolar: Vida Mortal (Investigación)
+[39] Vida Escolar: Juicio Escolar (Conclusión)
+[40] Punto de guardado
+[41] Juicio Escolar
+[42] Juicio Escolar (Preparación)
+[43] Juicio Escolar (Intermisión)
+[44] ※
+[45] Los datos no guardados se perderán.\n¿Volver al título?
+[46] Se requieren <DIG=●> Monomonedas para desbloquear.\n¿Desbloquear?
+[47] Necesitas <DIG=●> Monomonedas extra.
+[48] Los datos guardados se han actualizado.\n¿Guardar?
+[49] Galería de Eventos
+[50] Galería de Videos
+[51] Galería de Arte
+[52] Galería de Música (BGM)
+[53] Máquina MonoMono
+[54] Casino
+[55] Evento de Intimidad
+[56] Regresar al menú principal
+[57] Ocultar UI
+[58] Monomonedas insertadas
+[59] ???
+[60] Iniciar desde el Tiempo Libre
+[61] Disfruta la historia desde el Tiempo Libre.
+[62] Si cargas los datos guardados de la Demo,\ndesbloquearás una recompenza especial.\n¿Cargar datos guardados de la Demo?
+[63] Como un agradecimiendo por jugar la Demo,\nrecibirás:\n・333 Monomonedas\n・"Cepillo de Uñas" (Regalo)\n・"Ametralladora" (Habilidad)
+[64] Como un agradecimiento por jugar la Demo,\nrecibirás:\n・333 Monomonedas\n・"Nail Brush" Present\n・"A Quemarropa" (Habilidad)
+[65] Los datos guardados de la Demo no se pudieron cargar.
+[66] Datos guardados de la Demo
+[100] Save data will be uploaded to the \nPlayStation™Network. Please do not\nturn off the power or shut off \nthe network connection.\nStart the upload?
+[101] Save data will be downloaded from the \nPlayStation™Network. Please do not\nturn off the power or shut off \nthe network connection.\nStart the upload?
+[102] Save data upload complete.
+[103] Save data upload failed.
+[104] Save data download complete.
+[105] Save data download failed.
+[106] Cannot find uploaded data.
+[107] Reading save data from another user. \nCannot upload data.
+[108] The PlayStation™Network is busy. \nPlease wait and try again.
+[109] Save data download is complete.\nIf you end the game without saving,\nthe downloaded save data will be lost.\nDo you want to save the downloaded save data?
+[200] Cannot select this mode while game is installing.
+[201] Cannot play Ch. 2 while game is installing.
+[202] Previous save data is from a newer version\nthan current data. Cannot play this data.
+[203] Previous game data is from a new version\nthan current data. Cannot play this data.
+[204] Cerrando el juego.\n¿Está bien?
+}

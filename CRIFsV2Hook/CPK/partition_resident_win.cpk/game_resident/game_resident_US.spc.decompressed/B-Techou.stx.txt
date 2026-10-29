@@ -1,0 +1,71 @@
+{
+[0] Sí
+[1] No
+[2] Vale
+[3] Si regresas al menú principal,\ntodo progreso no\nguardado será perdido. ¿Estas seguro?
+[4] ¿Regalar el objeto seleccionado?
+[5] No puedes regalar eso,\nes un objeto especial...
+[6] ???
+[7] Altura
+[8] Peso
+[9] Pecho
+[10] Tipo de Sangre
+[11] F.Nac.
+[12] Le gusta
+[13] No le gusta
+[14] Notas
+[15] Influencia Máxima
+[16] Concentración Máxima
+[17] Ranura para Habilidad
+[18] Info
+[19] Habiliades
+[20] Volumen de BGM
+[21] Volumen de SFX
+[22] Volumen de Voces
+[23] Velocidad de Despliegue de Texto
+[24] Velocidad de la Retícula
+[25] Balanceo de Cámara
+[26] Invertir Eje de Visión
+[27] Controles
+[28] Visualización del Mapa
+[29] Restaurar Valores Predeterminados
+[30] Ajusta el volumen de la música de fondo.
+[31] Ajusta el volumen de los efectos especiales.
+[32] Ajusta el volumen de las voces.
+[33] Ajusta la velocidad del texto.
+[34] Ajusta la velocidad de movimiento de \nla retícula durante la investigación.
+[35] Configura si la cámara se balancea al moverte.
+[36] Configura si el eje Y está invertido.
+[37] Configura los controles de movimiento.
+[38] Ajusta la visualización del mapa.
+[39] Reinicia a la configuración inicial.
+[40] Reglas de la Academia Definitiva para Jóvenes Dotados
+[41] ¿Comprar la habilidad elegida?
+[42] No hay suficientes ranuras
+[43] No se puede combinar
+[44] Requiere <DIG=●> fragmento(s)
+[45] Revisa el diseño de \nla academia. Te ayudará a\nencontrar nuevos lugares.
+[46] Revisa la evidencia y \ntestimonios que has \nregistrado.
+[47] Revisa las pertenencias \nque lleves contigo.
+[48] Revisa la Ficha de \nEstudiante de cada alumno\nde la Academia Definitiva.
+[49] Revisa las reglas y \nregulaciones que deben \nser cumplidas.
+[50] Todas las funciones\nnecesarias para\nuna buena vida escolar.
+[51] Vibración
+[52] Activa o desactiva la vibración.
+[53] Guarda tu progreso actual.
+[54] Carga tu progreso.
+[55] Esto registrará todos los eventos a medida que\nocurren para prevenir la manipulación de cualquier caso.
+[56] Ajusta tu entorno para sentirte más cómodo.
+[57] Termina tu vida escolar y regresa al menú principal.
+[58] Configura el tema del Monopad.
+[59] Lazos
+[60] Habilidad obtenida.
+[61] Fragmentos req.: <DIG=●>
+[62] Invertir Eje X
+[63] Idioma de las Voces
+[64] Configura si el eje X está invertido.
+[65] Puedes cambiar el idioma de las voces.\nSolo puede ser cambiado en Opciones en el menú principal.
+[66] Por favor selecciona el idioma que desees usar para las voces.\n(Puedes cambiarlo desde Opciones en el Menú Principal).
+[67] Japonés
+[68] Inglés
+}

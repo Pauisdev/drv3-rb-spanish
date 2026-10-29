@@ -1,0 +1,150 @@
+{
+[0] DANGANRONPA V3
+[1] DANGANRONPA V3
+[2] DANGANRONPA V3
+[3] Galería de Música de V3
+[4] DANGANVEGAS
+[5] Bella Mentira
+[6] Hora de la Oscuridad
+[7] Espíritu, Alabanza y Belleza
+[8] Bella Mentira en el Mundo Virtual
+[9] En Busca de la Desesperación
+[10] En Busca de la Esperanza
+[11] En Busca de la Desesperación: Mundo Virtual
+[12] Mañana Fresca
+[13] Haciendo Amigos
+[14] Nuevos Compañeros de la Muerte
+[15] Wonderful Story
+[16] El Surgir de los Definitivos
+[17] Pesadilla en el Casillero
+[18] La Lección del Sr. Monokuma V3
+[19] Sr. Monokuma Post-Clase V3
+[20] ¡A Despertar y Brillar, Osos!
+[21] Un Paraíso Casi Infernal
+[22] Luna Sobre el Agua
+[23] Fiesta para Encontrar la Paz
+[24] Camino Despiadado
+[25] Viviendo en un Mundo Paralelo Perezoso
+[26] REAL/FICCIÓN
+[27] Entona la Verdad Vacía
+[28] Ceremonia Final del Juego de Matanza
+[29] El Niño en la Jaula
+[30] Comencemos el Juego de la Matanza
+[31] Clair de Lune - Suite Bergamasque (K. Akamatsu)
+[32] Nuestro Juicio Escolar
+[33] Juicio Escolar: Edición Amanecer Vol. 3
+[34] Juicio Escolar: Edición Espacial
+[35] Juicio Escolar: Edición Resurrección (Sin Intro)
+[36] Juicio Escolar: Edición Resurrección
+[37] V3 Argument -RUPTURA-
+[38] V3 Argument -SUBE LA INTENSIDAD-
+[39] V3 Argument -ESPERENZA VS DESESPERACIÓN-
+[40] V3 Argument -PÁNICO-
+[41] V3 Argument -CRUCE DE ESPADAS-
+[42] TAXI DE LA PSIQUE
+[43] Juego del Ahorcado ver 3.0
+[44] Enfrentamiento de Debate
+[45] Argumento Final V3
+[46] NUEVO A.A. (Cap. 1)
+[47] HIPER NUEVO A.A. (Cap. 1)
+[48] HIPER ULTRA NUEVO A.A. (Cap. 1)
+[49] NUEVO A.A. (Cap. 2)
+[50] HIPER NUEVO A.A. (Cap. 2)
+[51] HIPER ULTRA NUEVO A.A. (Cap. 2)
+[52] NUEVO A.A. (Cap. 3)
+[53] HIPER NUEVO A.A. (Cap. 3)
+[54] HIPER ULTRA NUEVO A.A. (Cap. 3)
+[55] NUEVO A.A. (Cap. 4)
+[56] HIPER NUEVO A.A. (Cap. 4)
+[57] HIPER ULTRA NUEVO A.A. (Cap. 4)
+[58] NUEVO A.A. (Cap. 5)
+[59] HIPER NUEVO A.A. (Cap. 5)
+[60] HIPER ULTRA NUEVO A.A. (Cap. 5)
+[61] FINAL A.A.
+[62] HIPER FINAL A.A.
+[63] HIPER FINAL ULTRA A.A.
+[64] Camino Mortal de la Desesperación
+[65] Camino Mortal de la Esperanza
+[66] Plan de Crecimiento Dangan
+[67] Selección de Talento
+[68] Esperanza de Primavera
+[69] Esperanza de Verano
+[70] Esperanza de Otoño
+[71] Esperanza de Invierno
+[72] Temporada de Desesperación
+[73] Plan de Crecimiento DX
+[74] Juicio de Monokuma
+[75] Preparación del Juicio
+[76] Prueba en la Cueva
+[77] Prueba en la Isla
+[78] Prueba en la Escuela
+[79] Batalla contra la Desesperación
+[80] Batalla contra la verdadera Desesperación
+[81] Battalla contra la Desesperación Final
+[82] FIN del Juicio
+[83] TRIBU EXISAL
+[84] Bella Mentira
+[85] Recreación del Clímax V3
+[86] Nuevo Orden Mundial V3
+[87] Mina Mental
+[88] Ranuras MonoMono
+[89] FUJA DEL FORAJIDO
+[90] PESCA DEL SALMÓN
+[91] ¡CAZADOR DE TESOROS! Monolito
+[92] DANGANRONPA V3
+[93] Viviendo en un Mundo Paralelo Perezoso
+[94] Argumento V3 -PERJURIA-
+[95] DANGANRONPA
+[96] Comencemos el Juego de la Matanza
+[97] Juicio Escolar: Edición Solar
+[98] Juicio Escolar: Edición Solar
+[99] V3_BGM_037
+[100] V3_BGM_038
+[101] V3_BGM_039
+[102] V3_BGM_040
+[103] V3_BGM_041
+[104] V3_BGM_042
+[105] V3_BGM_043
+[106] V3_BGM_044
+[107] V3_BGM_045
+[108] V3_BGM_046
+[109] V3_BGM_047
+[110] V3_BGM_048
+[111] V3_BGM_049
+[112] V3_BGM_050
+[113] V3_BGM_051
+[114] V3_BGM_052
+[115] V3_BGM_053
+[116] V3_BGM_054
+[117] V3_BGM_061
+[118] V3_BGM_062
+[119] V3_BGM_063
+[120] V3_BGM_064
+[121] V3_BGM_065
+[122] V3_BGM_066
+[123] V3_BGM_067
+[124] V3_BGM_068
+[125] V3_BGM_069
+[126] V3_BGM_070
+[127] V3_BGM_071
+[128] V3_BGM_072
+[129] V3_BGM_073
+[130] V3_BGM_074
+[131] V3_BGM_075
+[132] V3_BGM_076
+[133] V3_BGM_077
+[134] V3_BGM_078
+[135] V3_BGM_079
+[136] V3_BGM_080
+[137] V3_BGM_081
+[138] V3_BGM_082
+[139] V3_BGM_083
+[140] V3_BGM_084
+[141] V3_BGM_085
+[142] V3_BGM_086
+[143] V3_BGM_087
+[144] V3_BGM_088
+[145] V3_BGM_089
+[146] V3_BGM_090
+[147] V3_BGM_091
+}

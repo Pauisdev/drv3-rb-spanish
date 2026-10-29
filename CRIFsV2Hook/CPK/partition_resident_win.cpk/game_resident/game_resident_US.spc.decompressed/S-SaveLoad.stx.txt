@@ -1,0 +1,68 @@
+{
+[0] Danganronpa V3: Killing Harmony
+[1] Monomonedas
+[2] Número
+[3] Tiempo jugado
+[4] Nuevo archivo de guardado
+[10] PlayStation®Vita
+[11] PlayStation®4
+[12] Network:
+[13] Uploading save data. Is that okay?
+[14] Data that has been uploaded will be overwritten.\nIs that okay?
+[15] Data uploaded.
+[16] Downloading upload data. Is that okay?
+[17] Data was updated during the download.\nDownload has been cancelled.
+[18] No hay datos guardados de la Demo.
+[19] Cargando datos de la Demo...
+[20] You cannot access uploaded data on PlayStation™Network right now. Please wait and try again.
+[21] 
+[30] Danganronpa V3: Resolute Rebellion
+[31] Danganronpa V3
+[32] Danganronpa V3: Killing Harmony Demo version
+[33] Danganronpa V3: Killing Harmony Demo version
+[34] Guardar
+[35] Cargar
+[36] <PAD=【□】> Cambiar formato de fecha
+[37] <DIG=●>/<DIG=●>/<DIG=●>　<DIG=●>:<DIG=●>:<DIG=●>
+[38] Ranura Libre <DIG=●>
+[39] Modificado el
+[40] Detalles
+[41] Monomonedas <DIG=●>
+[42] Tiempo jugado <DIG=●>:<DIG=●>:<DIG=●>
+[43] ¿Deseas guardar en este archivo?
+[44] ¿Deseas cargar este archivo de guardado?
+[45] ¿Deseas sobreescribir este archivo?
+[46] Danganronpa V3: Killing Harmony
+[100] There is no save data for this game.\nCreate new save data?
+[101] Play without saving data?\nIf you select "Yes" you will not be able\nto save beyond this point.
+[102] Save data created successfully.
+[103] Failed to create save data.
+[104] Save data loaded successfully.
+[105] No se pudo cargar el archivo de guardado.
+[106] Save data already exists.\nOverwrite?
+[107] Delete save data and\nsave replay data?
+[108] Loaded save data belongs to another user, \nso it cannot be used. \nStarting game from the beginning.
+[109] Delete the corrupted save data\nand create a new one?
+[150] Creating save data.\nDo not turn off your PlayStation®4 system.
+[151] Loading save data.\nDo not turn off your PlayStation®4 system.
+[152] Saving save data.\nDo not turn off your PlayStation®4 system.
+[160] Creating save data.\nDo not turn off your PlayStation®Vita system.
+[161] Loading save data.\nDo not turn off your PlayStation®Vita system.
+[162] Saving save data.\nDo not turn off your PlayStation®Vita system.
+[170] Creating save data.\nDo not turn off your PlayStation®Vita system.
+[171] Loading save data.\nDo not turn off your PlayStation®Vita system.
+[172] Saving save data.\nDo not turn off your PlayStation®Vita system.
+[180] Creating save data.\nDo not turn off your PlayStation®Vita system.
+[181] Loading save data.\nDo not turn off your PlayStation®Vita system.
+[182] Saving save data.\nDo not turn off your PlayStation®Vita system.
+[200] The save data is corrupted and cannot be loaded.
+[201] No hay espacio libre en el disco.\n Se requiere al menos <DIG=●> KBs libres\npara jugar el juego. Cierra el juego y\nobtén el espacio requerido.
+[202] Save replay data?
+[203] This game has an autosave feature.\nPlease do not turn off your PlayStation®4 system\nwhen you see this icon.
+[204] This game has an autosave feature.\nPlease do not turn off your PlayStation®Vita system\nwhen you see this icon.
+[205] ¿Deseas guardar?
+[206] Downloading and installning remaining data.\nTo continue, load data after installation has completed.
+[207] Debes guardar para recibir\nla recompenza especial.
+[208] Regresando al título...
+[209] Demo version clear data has not been saved.\nWould you like to save?
+}
