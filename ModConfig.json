@@ -1,0 +1,38 @@
+{
+  "ModId": "drv3.es-translation.resolute-rebellion",
+  "ModName": "Spanish translation for Resolute Rebellion",
+  "ModAuthor": "pauisdev",
+  "ModVersion": "0.0.1",
+  "ModDescription": "Template for a Reloaded Mod Configuration",
+  "ModDll": "",
+  "ModIcon": "",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "drv3.es-translation.resolute-rebellion.ReleaseMetadata.json",
+  "IgnoreRegexes": [
+    ".*\\.json",
+    "drv3\\.es-translation\\.resolute-rebellion\\.nuspec"
+  ],
+  "IncludeRegexes": [
+    "\\.deps\\.json",
+    "\\.runtimeconfig\\.json",
+    "ModConfig\\.json",
+    "ModConfig\\.json"
+  ],
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "drv3.rewrite.resoluterebellion"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "dangan3win.exe"
+  ],
+  "ProjectUrl": ""
+}
