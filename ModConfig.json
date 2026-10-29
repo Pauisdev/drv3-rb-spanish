@@ -25,7 +25,50 @@
     "ModConfig\\.json",
     "ModConfig\\.json"
   ],
-  "PluginData": {},
+  "PluginData": {
+    "GameBananaDependencies": {
+      "IdToConfigMap": {
+        "drv3.rewrite.resoluterebellion": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 554968
+          },
+          "ReleaseMetadataName": "drv3.rewrite.resoluterebellion.ReleaseMetadata.json"
+        }
+      }
+    },
+    "GitHubDependencies": {
+      "IdToConfigMap": {
+        "crifs.v2.hook": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "CriFs.V2.Hook.ReloadedII",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "CriFs.V2.Hook.ReleaseMetadata.json"
+        },
+        "Reloaded.Memory.SigScan.ReloadedII": {
+          "Config": {
+            "UserName": "Reloaded-Project",
+            "RepositoryName": "Reloaded.Memory.SigScan",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "Reloaded.Memory.SigScan.ReloadedII.ReleaseMetadata.json"
+        },
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
+        }
+      }
+    }
+  },
   "IsUniversalMod": false,
   "ModDependencies": [
     "drv3.rewrite.resoluterebellion"
