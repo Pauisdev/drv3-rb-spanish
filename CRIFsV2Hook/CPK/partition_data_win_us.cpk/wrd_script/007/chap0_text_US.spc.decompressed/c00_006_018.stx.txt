@@ -1,0 +1,203 @@
+{
+[0] <CLT=cltSYSTEM>Hola. Debes estar confundido ahora mismo. \nEstarás pensando "¿Dónde estoy...?" 
+[1] <CLT=cltSYSTEM>Bueno, no puedo explicar eso, pero puedo darte \nuna explicación básica de los controles. 
+[2] <CLT=cltSYSTEM>Usa el stick <PAD=【Ｌ３】> para controlar la retícula en la \npantalla. 
+[3] <CLT=cltSYSTEM>Cuando tengas un objetivo en vista, presiona el \nbotón <PAD=【○】> para investigarlo. 
+[4] <CLT=cltSYSTEM>El stick <PAD=【Ｒ３】> controla tu vista.\nPégale una buena vista a tus alrededores.
+[5] <CLT=cltSYSTEM>También puedes presionar el botón <PAD=【Ｒ１】> para \nreventar objetos a tu alrededor. 
+[6] <CLT=cltSYSTEM>¿Quién sabe?\nQuizás y encuentras algo sorprendente.
+[7] <CLT=cltSYSTEM>Siempre puedes presionar <PAD=【Ｌ１】> para regresarlos a \ndonde estaban, así que no te preocupes. 
+[8] <CLT=cltSYSTEM>Sin embargo, no todo objeto puede ser movido.\nGracias por tu comprensión.
+[9] <CLT=cltSYSTEM>Si presionas el botón <PAD=【△】>, un misterioso poder \ninvestigativo se activará... 
+[10] <CLT=cltSYSTEM>Lo siento, sé que es mucha información. 
+[11] <CLT=cltSYSTEM>Pero si te olvidas de algo, puedes presionar el \nbotón <PAD=【Ｆ㊨】> para revisar los controles. 
+[12] <CLT=cltSYSTEM>¡Será mejor que intentes hablar con aquella joven \nseñorita! Nada sucederá si te quedas esperando. 
+[13] Ey. ¿Tú también eres una <CLT=cltSTRONG>Estudiante Definitiva<CLT=cltNORMAL>? 
+[14] ...Estudiante... ¿<CLT=cltSTRONG>Definitiva<CLT=cltNORMAL>? 
+[15] <CLT=cltMIND>¿Eh? ¿Acaso no sabe lo que es un estudiante \n<CLT=cltSTRONG>Definitivo<CLT=cltMIND>...? 
+[16] ¿Al menos podrías decirme tu nombre? 
+[17] ¿Nyeh? Oh... 
+[18] Me llamo Himiko Yumeno... o al menos, eso creo. 
+[19] Es un placer conocerte, Himiko. 
+[20] Me llamo Maki Harukawa, y soy la <CLT=cltSTRONG>Aventurera\nDefinitiva<CLT=cltNORMAL>.
+[21] ¿Aventurera <CLT=cltSTRONG>Definitiva<CLT=cltNORMAL>...? 
+[22] Sí. Conseguí el título tras viajar por todo el mundo \ncon una amiga. 
+[23] ...Ohh. Mmm, acabo de recordar algo.\nYo también soy una <CLT=cltSTRONG>Estudiante Definitiva<CLT=cltNORMAL>.
+[24] ¡¿En serio?! 
+[25] Sí. Mi <CLT=cltSTRONG>Talento Definitivo<CLT=cltNORMAL> es... ehh... 
+[26] ...Lo olvidé. 
+[27] ¿Te olvidaste...? 
+[28] ¡No es mi culpa! 
+[29] ¡Pero mi nombre realmente es Himiko Yumeno y \nde verdad que soy la <CLT=cltSTRONG>*algo* Definitiva<CLT=cltNORMAL>...! 
+[30] ... 
+[31] Okay. 
+[32] No me crees, ¿verdad...? 
+[33] Bueno, ¡te lo demostraré! 
+[34] ¡Soy una <CLT=cltSTRONG>Estudiante Definitiva<CLT=cltNORMAL> porque... em, este \nsombrero que llevo está impregnoso de poder \nmágico! 
+[35] <CLT=cltMIND>Creo que quisiste decir "impregnado..." 
+[36] Entonces... debido a mi sombrero, ¡apuesto que \nsoy la <CLT=cltSTRONG>Maga Definitiva<CLT=cltNORMAL>! 
+[37] <CLT=cltMIND>Supongo que lo mejor es seguirle la corriente... 
+[38] <CLT=cltSYSTEM>Puedes abandonar la habitación presionando <PAD=【×】>o \ninteractuando con la puerta. 
+[39] No comprendo para nada este lugar... 
+[40] Solo quiero volver a casa... 
+[41] Deberíamos poder encontrar una salida si \nrevisamos el lugar. 
+[42] Por el momento, puedes venir conmigo. 
+[43] Vale... 
+[44] <CLT=cltMIND>Así que aquí hay dieciséis <CLT=cltSTRONG>Estudiantes \nDefinitivos<CLT=cltMIND>... 
+[45] <CLT=cltMIND>Debería preguntarle a aquella chica si tiene un \ntalento. Quizás podríamos ayudarnos entre sí. 
+[46] Sí 
+[47] No 
+[48] ¿Estas dudando? 
+[49] <CLT=cltSYSTEM>¿Deseas salir? 
+[50] <CLT=cltMIND>¿Eh...? El pizarrón... 
+[51] <CLT=cltMIND>En realidad es una pantalla LCD.\nEsta escuela es ridículamente tecnológica.
+[52] <CLT=cltMIND>El pizarron en realidad es una pantalla LCD.\n¿Cuánto pudo haber costado...?
+[53] <CLT=cltMIND>Las ventanas tienen alambre de púas y estan \nllenas de vegetación. 
+[54] <CLT=cltMIND>No es algo que me esperaría en una escuela... 
+[55] <CLT=cltMIND>¿Por qué estan alambradas las ventanas? 
+[56] <CLT=cltMIND>Despertamos en estos casilleros. 
+[57] <CLT=cltMIND>Normalmente escogería un mejor lugar\npara dormir que este...
+[58] <CLT=cltMIND>Por alguna razón, estabamos atrapadas en estos \ncasilleros... 
+[59] <CLT=cltMIND>Pero no tengo ninguna memoria de ello. ¿Alguien \nnos puso aquí? ¿Por qué? 
+[60] <CLT=cltMIND>No parece haber nada en el monitor ahora mismo. 
+[61] <CLT=cltMIND>¿Qué estará haciendo aquí? Realmente no \nencaja. 
+[62] <CLT=cltMIND>No entiendo porque una escuela tendría un \nmonitor como este... 
+[63] <CLT=cltSYSTEM>Puedes abandonar la habitación presionando la \ntecla de Escape o interactuando con la puerta. 
+[64] <CLT=cltSYSTEM>Mueve el ratón para controlar la retícula en la \npantalla. 
+[65] <CLT=cltSYSTEM>Cuando tengas un objetivo en vista, presiona click \nizquierdo para investigarlo. 
+[66] <CLT=cltSYSTEM>Mantén presionado click derecho y mueve el \nratón para cambiar tu ángulo de visión. 
+[67] <CLT=cltSYSTEM>También puedes presionar Espacio para \nreventar objetos a tu alrededor. 
+[68] <CLT=cltSYSTEM>Siempre puedes presionar Q para regresarlos a \ndonde estaban, así que no te preocupes. 
+[69] <CLT=cltSYSTEM>Si presionas Enter, un misterioso poder \ninvestigativo se activará... 
+[70] 
+[71] 
+[72] 
+[73] 
+[74] 
+[75] 
+[76] 
+[77] 
+[78] 
+[79] 
+[80] 
+[81] 
+[82] 
+[83] 
+[84] 
+[85] 
+[86] 
+[87] 
+[88] 
+[89] 
+[90] 
+[91] 
+[92] 
+[93] 
+[94] 
+[95] 
+[96] 
+[97] 
+[98] 
+[99] 
+[100] 
+[101] 
+[102] 
+[103] 
+[104] 
+[105] 
+[106] 
+[107] 
+[108] 
+[109] 
+[110] 
+[111] 
+[112] 
+[113] 
+[114] 
+[115] 
+[116] 
+[117] 
+[118] 
+[119] 
+[120] 
+[121] 
+[122] 
+[123] 
+[124] 
+[125] 
+[126] 
+[127] 
+[128] 
+[129] 
+[130] 
+[131] 
+[132] 
+[133] 
+[134] 
+[135] 
+[136] 
+[137] 
+[138] 
+[139] 
+[140] 
+[141] 
+[142] 
+[143] 
+[144] 
+[145] 
+[146] 
+[147] 
+[148] 
+[149] 
+[150] 
+[151] 
+[152] 
+[153] 
+[154] 
+[155] 
+[156] 
+[157] 
+[158] 
+[159] 
+[160] 
+[161] 
+[162] 
+[163] 
+[164] 
+[165] 
+[166] 
+[167] 
+[168] 
+[169] 
+[170] 
+[171] 
+[172] 
+[173] 
+[174] 
+[175] 
+[176] 
+[177] 
+[178] 
+[179] 
+[180] 
+[181] 
+[182] 
+[183] 
+[184] 
+[185] 
+[186] 
+[187] 
+[188] 
+[189] 
+[190] 
+[191] 
+[192] 
+[193] 
+[194] 
+[195] 
+[196] 
+[197] 
+[198] 
+[199] 
+[200] 
+}

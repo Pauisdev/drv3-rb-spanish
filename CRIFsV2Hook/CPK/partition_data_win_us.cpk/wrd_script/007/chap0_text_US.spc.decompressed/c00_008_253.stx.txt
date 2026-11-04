@@ -1,0 +1,203 @@
+{
+[0] Parece... una jaula gigante. Nosotros somos los \npajaritos atrapados adentro, sin poder volar... 
+[1] Nyeeeeh... Quiero apresurarme para poder salir \nvolando... 
+[2] ¡Yah-ja! ¿Cómo estan? 
+[3] ¡Mi nombre es Angie Yonaga! ¡Soy la <CLT=cltSTRONG>Líder \nSuprema Definitiva<CLT=cltNORMAL>! 
+[4] ¿Te llamas Angie...? Suena... bastante alegre... 
+[5] <CLT=cltMIND>A primera vista, pensé que era pintora por las \nbrochas en su cinturón, pero... 
+[6] <CLT=cltMIND>¿Líder Suprema Definitiva? ¿Qué tipo de talento \nes ese...? 
+[7] Es importante ser alegre, ¿no lo creen? 
+[8] De todos modos... Te preguntas por mi talento, \n¿no es así? 
+[9] ¿E-eh? 
+[10] Es interesante, ¿no es así? Elegido \nespecialmente para mí por Él... 
+[11] ¿..."Él"? 
+[12] El dios de mi isla. Él siempre está conmigo, \nhablándome con su voz divina. 
+[13] Debido a esto, ¡lidero mi isla como su profeta! 
+[14] Más de 10.000 habitantes, y todos bajo su \ncomando... 
+[15] ¿Ahora entiendes su elección de darme el título \nde Líder Suprema Definitiva? 
+[16] No realmente... 
+[17] <CLT=cltMIND>Estoy segura que los talentos son elegidos por la \niniciativa Definitiva, no un dios de una isla. 
+[18] ¿Quizás podrías contarme el por qué de tus \nbrochetas? 
+[19] Bueno, ¡también pinto un poco en mi tiempo libre! 
+[20] Me gusta plasmar sus mensajes a mis pinturas, ¡y \nmostrar la belleza que Él puede invocar! 
+[21] ¡Nyajajaja! ¡Qué divino! 
+[22] En serio... 
+[23] Mmhm, mmhm, pero si quieres ver alguna de mis \nobras, deberás hacer una ofrenda. 
+[24] ¿Ofrenda? 
+[25] No hay por qué preocuparse. ¡Solo pido medio o \nun litro de tu sangre! 
+[26] <CLT=cltMIND>¡¿Nada de qué preocuparse?! 
+[27] O-oh... Creo que pasaré... 
+[28] Oww, ¿en serio? 
+[29] ¡Pero esto es lo normal! 
+[30] ¡Todo mundo ofrece su sangre! 
+[31] ¿No quieres apaciguarlo? 
+[32] ¿No quieres? ¿No quieres? 
+[33] ¡Gah! 
+[34] <CLT=cltMIND>¡Está demasiado cerca! 
+[35] ¡E-estoy segura que tu dios puede encontrar \nsangre en otro lugar! 
+[36] Así que será así... Bueno, si vas a resistirte así... 
+[37] ¡Menos mal que siempre llevo un cinsel conmigo! 
+[38] T-tú... ¡¿qué?! 
+[39] ¡¡N-no me lastimes!! 
+[40] ¡Ella va a por *mí* sangre! 
+[41] ¡Nyajajaja! Oh, ¡qué divertida eres! 
+[42] ¿De verdad creíste que te lastimaría por tu \nsangre...? 
+[43] ¿...Eh? 
+[44] A algunas personas les gusta mentir. 
+[45] Tómalo como tu primera prueba... ¡de muchas! 
+[46] ¡¿Por qué mentirías sobre algo así?! 
+[47] ¿Mm? ¡Porque Él me lo ordenó, por supuesto! 
+[48] Sabes, miento sobre muchas cosas. ¡Y hay \nmuchas más de las que no sabes! 
+[49] ¿Él siquiera acepta sacrificios de sangre? 
+[50] ¡Quizás Él prefiere carne de perro! 
+[51] ¡Quizás Él prefiere carne de humano! 
+[52] ¿Cómo podrías estar segura...? 
+[53] ... 
+[54] ¡Nyajajaja! ¡No puedes! ¡Es imposible saberlo! 
+[55] Después de todo, solo Él conoce la verdad... 
+[56] <CLT=cltMIND>Ella es... interesante cuanto menos. Deberé tener \ncuidado con lo que digo a su alrededor... 
+[57] <CLT=cltSYSTEM>La <CLT=cltSTRONG>Ficha de Estudiante<CLT=cltSYSTEM> de Angie fue actualizada \nsegún tu interacción con ella. 
+[58] ¡Nyajajaja! Avísame si cambias de opinión. 
+[59] Mantengo mis cinceles limpios para ocasiones \ncomo estas, ¡no habrán infecciones! 
+[60] <CLT=cltMIND>...No voy a cambiar de opinión. 
+[61] <CLT=cltMIND>Aquella persona de allí podría ser una estudiante \n<CLT=cltSTRONG>Definitiva<CLT=cltMIND>. Debería preguntarle. 
+[62] Sí 
+[63] No 
+[64] ¿Estas dudando? 
+[65] <CLT=cltSYSTEM>¿Deseas salir? 
+[66] <CLT=cltMIND>No entiendo porque una escuela tendría un \nmonitor como este... 
+[67] <CLT=cltMIND>What a nice fountain...
+[68] 
+[69] 
+[70] 
+[71] 
+[72] 
+[73] 
+[74] 
+[75] 
+[76] 
+[77] 
+[78] 
+[79] 
+[80] 
+[81] 
+[82] 
+[83] 
+[84] 
+[85] 
+[86] 
+[87] 
+[88] 
+[89] 
+[90] 
+[91] 
+[92] 
+[93] 
+[94] 
+[95] 
+[96] 
+[97] 
+[98] 
+[99] 
+[100] 
+[101] 
+[102] 
+[103] 
+[104] 
+[105] 
+[106] 
+[107] 
+[108] 
+[109] 
+[110] 
+[111] 
+[112] 
+[113] 
+[114] 
+[115] 
+[116] 
+[117] 
+[118] 
+[119] 
+[120] 
+[121] 
+[122] 
+[123] 
+[124] 
+[125] 
+[126] 
+[127] 
+[128] 
+[129] 
+[130] 
+[131] 
+[132] 
+[133] 
+[134] 
+[135] 
+[136] 
+[137] 
+[138] 
+[139] 
+[140] 
+[141] 
+[142] 
+[143] 
+[144] 
+[145] 
+[146] 
+[147] 
+[148] 
+[149] 
+[150] 
+[151] 
+[152] 
+[153] 
+[154] 
+[155] 
+[156] 
+[157] 
+[158] 
+[159] 
+[160] 
+[161] 
+[162] 
+[163] 
+[164] 
+[165] 
+[166] 
+[167] 
+[168] 
+[169] 
+[170] 
+[171] 
+[172] 
+[173] 
+[174] 
+[175] 
+[176] 
+[177] 
+[178] 
+[179] 
+[180] 
+[181] 
+[182] 
+[183] 
+[184] 
+[185] 
+[186] 
+[187] 
+[188] 
+[189] 
+[190] 
+[191] 
+[192] 
+[193] 
+[194] 
+[195] 
+[196] 
+[197] 
+[198] 
+[199] 
+[200] 
+}

@@ -1,0 +1,203 @@
+{
+[0] <CLT=cltMIND>Todos estan aqui... 
+[1] Mm, qué espectáculo, nosotros dieciséis \n<CLT=cltSTRONG>Definitivos<CLT=cltNORMAL> en un mismo lugar. 
+[2] Qué curioso... Lo dices como si fueramos \nanimales para observar en un zoológico. 
+[3] Se siente como un zoológico. Atrapados, pero \ncon instalaciones para que podamos sobrevivir. 
+[4] Así que tú también encuentras eso extraño. 
+[5] Bueno, ¡no planeo quedarnos aquí lo suficiente \ncomo para usar nada que nos proporcionen! 
+[6] ¡Vamos a salir de aquí! 
+[7] ¿Cómo puedes estar tan segura? 
+[8] Quien sea que esté a cargo de este lugar... 
+[9] Me da la sensación de que tienen mucho poder \nsobre lo que sucede adentro de estas paredes. 
+[10] Concuerdo. Deberíamos mantener la guardia, en \ncaso de que aparezca algún peligro. 
+[11] Wooow, ¡Señor Keebo! Estaba a punto de decir lo \nmismo. 
+[12] Eres de confiar, ¿no es así? Si el peligro aparece, \n¡serás mi escudo humano! 
+[13] ¡No aceptaré algo tan ridículo como eso! 
+[14] ¿Q-qué? Pero estoy tan asustado... No sé que \nhacer si las cosas se ponen peligrosas... 
+[15] Ya, ya, ¡no se preocupen! Él está viendo sobre \nnosotros, y no nos dejará ser lastimados. 
+[16] ¡¿Quién carajos es "Él"?! 
+[17] Lo que sea. ¡Ustedes no deben preocuparse por \nnada! 
+[18] ¡Yo, Kaito Momota, el Ilustre Ilusionista, los \nprotegeré! 
+[19] ¿Y cómo harás eso? 
+[20] ...¡E-Estoy en ello! 
+[21] ¿Eh...? Gonta escucha algo... 
+[22] Ah, creo que también lo escucho... ¿Suena \ncómo... metal chocando? 
+[23] <CLT=cltMIND>Antes de que nos dieramos cuenta, estabamos \nrodeados por todos lados. 
+[24] <CLT=cltMIND>Rodeados por estas... cosas. Sea lo que sean, no \nparecían amistosas. 
+[25] ¡Kyaaaaaaaaaah! 
+[26] ¡Todos! ¡Detrás de Gonta! 
+[27] ¡¿Q-qué son estas cosas?! 
+[28] ¡Wow! ¡Son geniales! ¡Quiero jugar con una! 
+[29] ¡Estos son los Exisales! 
+[30] ¡¿Q-quién dijo eso?! 
+[31] ¡Plataformas de armas bípedas! ¡Altamente \nmóviles! 
+[32] Plataformas de armas, ¿eh...? 
+[33] Me preocupan menos ellas y más la voz. 
+[34] Eso proviene de la extraña oso-cosa, ¿no es así? \n¿De dónde viene su voz? 
+[35] ¡Pues, justo de aquí, por supuesto! 
+[36] Soy el dios de este nuevo mundo... 
+[37] ¡...y el director de la Academia Definitiva! 
+[38] ¡El único, el incomparable... Monokuma! ¡Un \nplacer conocerlos! 
+[39] <CLT=cltMIND>Quien habla... ¡¿de verdad es un oso de peluche \nque camina y habla?! 
+[40] Un oso... Los inventos humanos son bastante \npeculiares, por decir lo menos. 
+[41] ¿Qué motivos tendría alguien para crear tal cosa? 
+[42] Wow, wow, para. ¡No soy una "cosa", tú robot \ndescerebrado! ¡Soy Monokuma! 
+[43] Un oso de peluche que habla... Debe ser algún tipo \nde robot autónomo controlado por IA. 
+[44] ¡Tampoco soy un oso de peluche que habla, tú \nbolsa de carne descerebrada! ¡Soy Monokuma! 
+[45] Vale, "Monokuma". ¿Qué es lo que quieres de \nnosotros? 
+[46] ¡Para tí es "Director"! 
+[47] ¡Director de la <CLT=cltSTRONG>Academia Definitiva para Jóvenes \nDotados<CLT=cltNORMAL>! 
+[48] Ahora, en cuánto a lo que quiero... 
+[49] Puju... pujujujuju... 
+[50] No entiendo de qué carajo se está riendo... 
+[51] Bueno, ¡es simple! ¡Quiero que ustedes niños \nparticipen en un juego de matanza! 
+[52] ¡Sí, un juego trepidante de matanza mutua! ¡El \njuego del asesinato! 
+[53] ¡¿Juego de m-matanza?! 
+[54] ¡...Nadie participaría en algo así! 
+[55] ¿Eh? ¿No quieren participar? 
+[56] ¡No! ¡Gonta es un caballero! ¡Los caballeros no \nhieren personas! 
+[57] Pero ya todos han explorado la academia y lo han \nvisto, ¿no es así? 
+[58] Hay un muro gigante rodeando la academia. No \npueden escapar al mundo exterior... 
+[59] Y mientras tenga a estos <CLT=cltSTRONG>Exisales<CLT=cltNORMAL>, no pueden \ndesafiarme. 
+[60] En otras palabras... Yo tengo el poder de la vida y \nmuerte de cada uno de ustedes. 
+[61] N-no... esto no puede estar pasando... 
+[62] Un juego de matanza... Si ese es el caso, tengo un \npar de preguntas. 
+[63] ¿Cómo se supone que nos matemos entre sí? 
+[64] ¿Nos dan armas? ¿O tenemos que hacerlas \nnosotros? 
+[65] ¡¿Qu— ¡¿Por qué estas preguntando una cosa \nasí?! 
+[66] Relájate. Solo intento sacarle información. 
+[67] No hay mucho que podamos hacer si no \nconocemos nuestra situación. 
+[68] ¿Armas? Bueno, no sé en qué estás pensando, \n¡pero no suena como el juego de matanza! 
+[69] ¡Algo tan refinado y sofisticado como el juego de \nmatanza jamás sería tan salvaje! 
+[70] No veo como un juego de matanza podría ser \nrefinado... 
+[71] ¿Oh? ¡Entonces, permíteme aclararlo! Al juego \nde matanza lo acompañan juicios escolares. 
+[72] ¿Juicios escolares? 
+[73] ¡Síp! Si uno de ustedes, gusanos, mata a alguien, \n¡todos participarán en un juicio escolar! 
+[74] ¡El juicio escolar es dónde el asesino, el cupable, \nse enfrenta a sus compañeros! 
+[75] Si encuentran al culpable antes de la Hora de \nVotar, y el voto por mayoría es correcto... 
+[76] ¡Entonces solo el culpable recibirá castigo al \nfinal! 
+[77] Sin embargo, si la persona equivocada es votada \ncomo culpable... 
+[78] ¡Entonces el asesino real se libra sin castigo, y en \nsu lugar el resto son castigados! 
+[79] ¿...Castigados? ¿Qué tipo de... castigo? 
+[80] Pujuju... Bueno, ¡la ejecución, por supuesto! 
+[81] ¡¿E-ejecutado?! 
+[82] Cometes un crimen y recibes castigo. Esa es, \ncomo, la regla más básica de la sociedad. 
+[83] Pero claro, ya que es un juego de matanza, el \ncastigo por matar es un poco más... <CLT=cltSTRONG>permanente<CLT=cltNORMAL>. 
+[84] ... 
+[85] Ahora, con toda la aburrida explicación fuera del \ncamino... 
+[86] ¡Es hora de comenzar este semestre escolar de \nasesinatos! 
+[87] ¡Ustedes, dieciséis mocosos, tienen libertad \ntotal para matar a quien quieran, como quieran! 
+[88] ¡Así que a ello! ¡A apuñalar, estrangular, disparar, \nno me importa! ¡Solo empiecen ya! 
+[89] Ajaj... no saldremos vivos de esto, ¿no es así...? De \neste... "<CLT=cltSTRONG>juego<CLT=cltNORMAL>". 
+[90] Entregar nuestras vidas por algo como un juego... 
+[91] Hay muchas situaciones donde eso sería \nadmirable. Esta no es una de ellas. 
+[92] ¿Mmmmmm? Bueno, ¡al menos puede que sea \ninteresante! 
+[93] ¡¿Q-qué?! ¡¿Qué les pasa?! ¡Y-y más ustedes... \nhombres... asquerosos! ¡Están muy calmados! 
+[94] Ow, vamos... es solo una broma, ¿verdad? 
+[95] A menos... que realmente esperen que nos \nmatemos entre sí. 
+[96] <CLT=cltMIND>Una mentira... si tan solo fuera así. 
+[97] <CLT=cltMIND>Por más alejado de la realidad que parezca... \ndistante, como una serie en TV... 
+[98] <CLT=cltMIND>Y sin embargo, puedo verlo en la cara de todos. \nSabemos que esto en verdad está sucediendo. 
+[99] No... quiero... ¡No quiero participar en un juego de \nmatanza...! 
+[100] ¿Mm? ¡Pero ya lo he explicado! 
+[101] Estás atrapada, y a menos que ustedes, mocosos, \nempiecen a matar, nunca escaparán. 
+[102] ¡Usen sus talentos, y tengan un feliz, homocida, \nterrorífico, hilarante juego de matanza! 
+[103] ¡E-espera un segundo! 
+[104] No importa que digas... ¡No lo haremos! 
+[105] ¡Nunca participaremos en un juego de matanza! 
+[106] ¡No importa que tengas planeado, no voy a dejar \nque te salgas con la tuya! 
+[107] ¡H-hey, espera! No deberías desafiar a esa cosa \ntan— 
+[108] ¡No, no! ¡Su resistencia es bienvenida! ¡Ese tipo de \nrebeldía solo lo hace más entretenido! 
+[109] Es tan divertido ver a los rebeldes quebrar, y antes \nde que uno se de cuenta... 
+[110] ¿Antes de... qué? 
+[111] Bueno, ¡estoy seguro de que serías una excelente \nasesina! 
+[112] ¡Y si no te pones a ello, te obligaré! 
+[113] ¡Ajajajajajajajaja! 
+[114] <CLT=cltMIND>Ahora incluso Kaede parece haberse quedado \nsin palabras. 
+[115] <CLT=cltMIND>Parece ser que rebelarnos no nos llevará a nada... \nno nos sacará de aquí... de este juego... 
+[116] <CLT=cltMIND>Dieciséis Estudiantes Definitivos, atrapados y \nforzados a matarse entre sí... 
+[117] <CLT=cltMIND>Es como una historia. Una historia sacada de un \nlibro de ficción sadístico... 
+[118] <CLT=cltMIND>Y sin importar si me guste o no, ahora era uno de los \npersonajes de esta. 
+[119] 
+[120] 
+[121] 
+[122] 
+[123] 
+[124] 
+[125] 
+[126] 
+[127] 
+[128] 
+[129] 
+[130] 
+[131] 
+[132] 
+[133] 
+[134] 
+[135] 
+[136] 
+[137] 
+[138] 
+[139] 
+[140] 
+[141] 
+[142] 
+[143] 
+[144] 
+[145] 
+[146] 
+[147] 
+[148] 
+[149] 
+[150] 
+[151] 
+[152] 
+[153] 
+[154] 
+[155] 
+[156] 
+[157] 
+[158] 
+[159] 
+[160] 
+[161] 
+[162] 
+[163] 
+[164] 
+[165] 
+[166] 
+[167] 
+[168] 
+[169] 
+[170] 
+[171] 
+[172] 
+[173] 
+[174] 
+[175] 
+[176] 
+[177] 
+[178] 
+[179] 
+[180] 
+[181] 
+[182] 
+[183] 
+[184] 
+[185] 
+[186] 
+[187] 
+[188] 
+[189] 
+[190] 
+[191] 
+[192] 
+[193] 
+[194] 
+[195] 
+[196] 
+[197] 
+[198] 
+[199] 
+[200] 
+}

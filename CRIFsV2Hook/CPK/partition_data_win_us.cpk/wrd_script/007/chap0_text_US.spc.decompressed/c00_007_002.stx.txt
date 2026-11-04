@@ -1,0 +1,203 @@
+{
+[0] ...¿Eh? 
+[1] <CLT=cltMIND>¡Este pasillo está lleno de plantas...! 
+[2] <CLT=cltMIND>Es como si fuera una jungla...\nEsto *es* una escuela, ¿no es así?
+[3] <CLT=cltMIND>¿Pero qué tipo de escuela se ve así...? 
+[4] ¿...Nyeh? ¿Qué es esto? 
+[5] ¿Himiko? ¿Qué sucede? 
+[6] Hay algo extraño en mi bolsillo... Pareciera una... \n¿especie de tableta en blanco y negro? 
+[7] ¿Eh? Espera, creo que también hay algo en mi \nbolsillo. 
+[8] Es la misma cosa... y hay algo escrito a su lado. \n¿"Monopad"? 
+[9] Pareciera un mapa... y algunas otras cosas más... 
+[10] <CLT=cltMIND>Inicié la tableta y mi nombre apareció en la \npantalla. 
+[11] Supongo que es alguna especie de manual \nelectrónico para estudiantes. 
+[12] <CLT=cltSYSTEM>¡Felicitaciones!\n¡Ahora tienes acceso al <CLT=cltSTRONG>Monopad<CLT=cltSYSTEM>!
+[13] <CLT=cltSYSTEM>Presiona el botón <PAD=【□】> para abrir el <CLT=cltSTRONG>Monopad<CLT=cltSYSTEM>.\nContiene mucha información sobre el juego.
+[14] <CLT=cltSYSTEM>Desde la <CLT=cltSTRONG>Ficha de Estudiantes<CLT=cltSYSTEM> hasta el <CLT=cltSTRONG>Mapa<CLT=cltSYSTEM>.\n¡Asegúrate de aprovecharlo!
+[15] <CLT=cltSYSTEM>Y si tienes buen ojo, puede que ya hayas notado... 
+[16] <CLT=cltSYSTEM>Al volverte más cercano con tus compañeros, tu \n<CLT=cltSTRONG>Ficha de Estudiantes<CLT=cltSYSTEM> obtendrá nuevo contenido. 
+[17] <CLT=cltSYSTEM>Sin embargo, esta característica puede tener \nalgunos bugs por el momento... 
+[18] <CLT=cltSYSTEM>Y apuesto a que has visto que puedes <CLT=cltSTRONG>subir de nivel<CLT=cltSYSTEM> \nal hacer ciertas acciones. 
+[19] <CLT=cltSYSTEM>Al subir de nivel, tus <CLT=cltSTRONG>ranuras para habilidades \n<CLT=cltSYSTEM>aumentarán, permitiéndote equipar aún más. 
+[20] <CLT=cltSYSTEM>Hay muchas habilidades, ¡revísalas en la <CLT=cltSTRONG>Ficha de \nEstudiantes<CLT=cltSYSTEM>! 
+[21] <CLT=cltSYSTEM>Si deseas nuevas habilidades, ¡haz amigos! \n¡fortalece tus lazos con todos! 
+[22] <CLT=cltSYSTEM>¡Asegúrate de probar todas las habilidades! 
+[23] <CLT=cltSYSTEM>Por cierto... Hay algo más que tenía que decirte. 
+[24] <CLT=cltSYSTEM>Puedes <CLT=cltSTRONG>guardar<CLT=cltSYSTEM> y <CLT=cltSTRONG>cargar<CLT=cltSYSTEM> el juego\ndesde el manual.
+[25] <CLT=cltSYSTEM>¡Asegúrate de guardar a menudo! 
+[26] <CLT=cltSYSTEM>¡Muy bien! ¡En marcha! ¡A encontrar a tus \ncompañeros! 
+[27] Amm... 
+[28] Disculpa. ¿Eres otra estudiante <CLT=cltSTRONG>Definitiva<CLT=cltNORMAL>? 
+[29] ¿Eh? Amm, es decir, ¡estoy a tu servicio! 
+[30] <CLT=cltMIND>¿A mi servicio? 
+[31] Eh, ¿vale? 
+[32] Nyeh... Es rara. 
+[33] ¡Oh, lo siento! Es solo que, así es como suelo \nsaludar al llegar a mi trabajo de medio tiempo... 
+[34] Realmente me encanta ayudar a mis \nempleadores. 
+[35] ¡Es más, hubo una vez que trabajaba para una \nescritora sobreexplotada! 
+[36] Tenía que recordarle tomar descansos, rellenar \nsu taza de café, corregir sus manuscritos, y... 
+[37] A-antes de que continúes... ¿Podrías decirnos tu \nnombre? 
+[38] Oh, me llamo Tsumugi Shirogane.\nSoy la <CLT=cltSTRONG>Maid Definitiva<CLT=cltNORMAL>.
+[39] Es un placer conocerte, Tsumugi. Soy- 
+[40] ¿Necesitas algo? ¿Agua? ¿Comida?\n¿Estás herida o algo así?
+[41] Ya recorrí toda la escuela y localicé todo lo que \nprecisaremos para sobrevivir aquí. 
+[42] Solo dime si necesitas algo, ¡¿vale?! 
+[43] V-vale... 
+[44] <CLT=cltMIND>Parece muy dispuesta a ayudar...\nQuizás demasiado dispuesta.
+[45] Hmm... Estar atrapada aquí me tiene preocupada \npor mis empleadores. 
+[46] ¿Estarán bien sin mí? 
+[47] Parece ser que estaremos atrapadas aquí por un \ntiempo... que pereza... 
+[48] <CLT=cltMIND>Realmente espero que no sea así... 
+[49] <CLT=cltMIND>No me gusta quedarme en un mismo lugar por \nmucho tiempo. Me pone nerviosa... 
+[50] <CLT=cltMIND>Bueno, aunque supongo que no se puede hacer \nnada si es que realmente estamos atrapadas aquí. 
+[51] <CLT=cltSYSTEM>La <CLT=cltSTRONG>Ficha de Estudiante<CLT=cltSYSTEM> de Tsumugi fue \nactualizada según tu interacción con ella. 
+[52] ¿Qué voy a hacer...? ¿Qué hago...? 
+[53] Debo mantenerme ocupada mientras esté aquí. 
+[54] Oh, ¡ya sé! ¡Puedo ofrecer masajes! ¡Soy \nsimplemente genial en ello! 
+[55] <CLT=cltMIND>Supongo que debería revisar este lugar más \ntarde. 
+[56] Laboratorio de investigación de Kirumi Tojo 
+[57] Laboratorio de investigación de Gonta Gokuhara 
+[58] 3er piso 
+[59] ¿Qué se supone que es esto...? 
+[60] Ah, sí... es el mítico Rigid Serpentius. 
+[61] Es conocido por esconderse en cajas para \ncamuflarse antes de atacar su presa... 
+[62] Como este está encima de su caja, debe haber \ntenido una caza exitosa. 
+[63] <CLT=cltMIND>...Apuesto a que está diciendo tonterías para \nentretenerse. 
+[64] <CLT=cltMIND>...Supongo que no es *tan* raro que las escuelas \ntengan estatuas por ahí, ¿no...? 
+[65] ¿Una puerta con teclas de piano...? ¿Para qué \nserá? ¿Un salón de música? 
+[66] Nyeh... Hay una nota allí. Dice... 
+[67] ¿<CLT=cltSTRONG>Laboratorio de investigación<CLT=cltNORMAL>? ¿Bajo \nconstrucción...? 
+[68] ¿<CLT=cltSTRONG>Laboratorio de investigación<CLT=cltNORMAL>? 
+[69] <CLT=cltMIND>Quizás debería revisarlo más tarde. 
+[70] Está cerrado. Deberíamos buscar en otro sitio. 
+[71] Vale... 
+[72] <CLT=cltSYSTEM>Presiona la tecla F1 para abrir el <CLT=cltSTRONG>Monopad<CLT=cltSYSTEM>. \nContiene mucha información sobre el juego.
+[73] 
+[74] 
+[75] 
+[76] 
+[77] 
+[78] 
+[79] 
+[80] 
+[81] 
+[82] 
+[83] 
+[84] 
+[85] 
+[86] 
+[87] 
+[88] 
+[89] 
+[90] 
+[91] 
+[92] 
+[93] 
+[94] 
+[95] 
+[96] 
+[97] 
+[98] 
+[99] 
+[100] 
+[101] 
+[102] 
+[103] 
+[104] 
+[105] 
+[106] 
+[107] 
+[108] 
+[109] 
+[110] 
+[111] 
+[112] 
+[113] 
+[114] 
+[115] 
+[116] 
+[117] 
+[118] 
+[119] 
+[120] 
+[121] 
+[122] 
+[123] 
+[124] 
+[125] 
+[126] 
+[127] 
+[128] 
+[129] 
+[130] 
+[131] 
+[132] 
+[133] 
+[134] 
+[135] 
+[136] 
+[137] 
+[138] 
+[139] 
+[140] 
+[141] 
+[142] 
+[143] 
+[144] 
+[145] 
+[146] 
+[147] 
+[148] 
+[149] 
+[150] 
+[151] 
+[152] 
+[153] 
+[154] 
+[155] 
+[156] 
+[157] 
+[158] 
+[159] 
+[160] 
+[161] 
+[162] 
+[163] 
+[164] 
+[165] 
+[166] 
+[167] 
+[168] 
+[169] 
+[170] 
+[171] 
+[172] 
+[173] 
+[174] 
+[175] 
+[176] 
+[177] 
+[178] 
+[179] 
+[180] 
+[181] 
+[182] 
+[183] 
+[184] 
+[185] 
+[186] 
+[187] 
+[188] 
+[189] 
+[190] 
+[191] 
+[192] 
+[193] 
+[194] 
+[195] 
+[196] 
+[197] 
+[198] 
+[199] 
+[200] 
+}

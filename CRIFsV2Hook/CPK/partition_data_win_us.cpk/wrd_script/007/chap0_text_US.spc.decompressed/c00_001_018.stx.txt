@@ -1,0 +1,203 @@
+{
+[0] Nada. 
+[1] Todo empezó con la nada. 
+[2] Nada más que una sensación fría arrastrándose \nde mis codos hasta mi mentón. 
+[3] Una sensación fría que se apoderó de mí... 
+[4] De mí... 
+[5] ¿"Mí"? ¿Yo? 
+[6] ¿Y quién sería ese "Yo"? 
+[7] Mientras hacía esa pregunta, extiendo una \nmano... 
+[8] Una mano que no posee dueño, así como mi mente \nno posee recuerdos... 
+[9] Mi cuerpo, sin alma... 
+[10] Mi ser, sin existencia... 
+[11] Así que me acerco, y— 
+[12] Esta soy yo. 
+[13] Mi nombre es Maki Harukawa. 
+[14] Acabo de recordar quién soy. 
+[15] Encantada de conocer... me, ¿a mí? 
+[16] ...¿Y a quién le estoy hablando, de todos modos? 
+[17] ... 
+[18] <CLT=cltMIND>Aturdida, escapé del casillero... 
+[19] ¡Aah! 
+[20] <CLT=cltMIND>Pero tropecé conmigo misma, golpeándome la \ncabeza contra el suelo. Bien hecho, Maki. 
+[21] <CLT=cltMIND>El dolor entumecedor me sacó de mi mente \nentumecida, y ahí me di cuenta... 
+[22] ...¡¿Dónde carajos estoy?! 
+[23] <CLT=cltMIND>No reconocí el lugar en lo absoluto. 
+[24] Eché una mirada a la habitación intentando \nidentificarla, pero nada parecía remotamente \nfamiliar. 
+[25] ¿...Un aula...? 
+[26] <CLT=cltMIND>Sip, parece ser un aula, bien. 
+[27] <CLT=cltMIND>Ahora mi mayor pregunta es cómo llegué aquí... 
+[28] <CLT=cltMIND>Metí la mano a mi recuerdo más reciente, pero no \nlo encontré. 
+[29] Espera, ¿fui secuestrada? Sí, definitivamente me \nsecuestraron. 
+[30] No puedo ver otra forma en la que acabaría aquí \nsin recordar como es que llegué. 
+[31] <CLT=cltSYSTEM>*¡bam!* 
+[32] ¡Gah! 
+[33] <CLT=cltMIND>De pronto, el casillero al lado del mío comenzó a \ntemblar. 
+[34] <CLT=cltMIND>Alguien—o algo—estaba golpeándose contra él. 
+[35] <CLT=cltMIND>Con un giro rápido de mi cuerpo, me di la vuelta \npara mirarlo y... 
+[36] <CLT=cltMIND>Una chica cayó de él. 
+[37] ...¡¿N-nyeh?! 
+[38] <CLT=cltMIND>Una chica pelirroja en un uniforme escolar. Debe \nser de secundaria, como yo. 
+[39] <CLT=cltMIND>Se le veía tan sorprendida y confundida como yo, y \nsin embargo me miraba fijamente a pesar de ello. 
+[40] ¡¿Quién eres?! ¡¿D-Dónde estoy?! ¡¿Quién... \nquién soy?! 
+[41] <CLT=cltMIND>Me gritó como si supiera más que ella... y no. 
+[42] Yo tampoco lo sé, ¿vale? Acabo de... \ndespertarme en este casillero, y— 
+[43] <CLT=cltMIND>Me interrumpió un sonido detrás mio. Al girarme, \nvi una pantalla parpadear y encenderse... 
+[44] <CLT=cltMIND>Los altavoces cobraron vida con ruido blanco \nantes de aclararse y convertirse en una voz. 
+[45] ¡Hola, queridos estudiantes de la <CLT=cltSTRONG>Academia \nDefinitiva para Jóvenes Dotados<CLT=cltNORMAL>! 
+[46] Por favor, ¡siéntanse como en casa! 
+[47] Exploren la academia, conozcan los demás\n<CLT=cltSTRONG>Estudiantes Definitivos De Secundaria<CLT=cltNORMAL>...
+[48] Todo ese rollo, bla bla. 
+[49] ¡Hay dieciséis de ustedes, mocosos, en esta \nacademia, así que tomen nota! 
+[50] En fin, eso es todo. Hasta luego, be-ó-sitos, qué sé \nyo. 
+[51] <CLT=cltMIND>¿<CLT=cltSTRONG>Academia Definitiva<CLT=cltMIND>? ¿<CLT=cltSTRONG>Estudiantes Definitivos \nDe Secundaria<CLT=cltMIND>? ¿...Dieciséis? 
+[52] <CLT=cltMIND>Así que no soy la única... Quizás debería \npreguntarle a esta chica si ella tiene un <CLT=cltSTRONG>talento<CLT=cltMIND>. 
+[53] 
+[54] 
+[55] 
+[56] 
+[57] 
+[58] 
+[59] 
+[60] 
+[61] 
+[62] 
+[63] 
+[64] 
+[65] 
+[66] 
+[67] 
+[68] 
+[69] 
+[70] 
+[71] 
+[72] 
+[73] 
+[74] 
+[75] 
+[76] 
+[77] 
+[78] 
+[79] 
+[80] 
+[81] 
+[82] 
+[83] 
+[84] 
+[85] 
+[86] 
+[87] 
+[88] 
+[89] 
+[90] 
+[91] 
+[92] 
+[93] 
+[94] 
+[95] 
+[96] 
+[97] 
+[98] 
+[99] 
+[100] 
+[101] 
+[102] 
+[103] 
+[104] 
+[105] 
+[106] 
+[107] 
+[108] 
+[109] 
+[110] 
+[111] 
+[112] 
+[113] 
+[114] 
+[115] 
+[116] 
+[117] 
+[118] 
+[119] 
+[120] 
+[121] 
+[122] 
+[123] 
+[124] 
+[125] 
+[126] 
+[127] 
+[128] 
+[129] 
+[130] 
+[131] 
+[132] 
+[133] 
+[134] 
+[135] 
+[136] 
+[137] 
+[138] 
+[139] 
+[140] 
+[141] 
+[142] 
+[143] 
+[144] 
+[145] 
+[146] 
+[147] 
+[148] 
+[149] 
+[150] 
+[151] 
+[152] 
+[153] 
+[154] 
+[155] 
+[156] 
+[157] 
+[158] 
+[159] 
+[160] 
+[161] 
+[162] 
+[163] 
+[164] 
+[165] 
+[166] 
+[167] 
+[168] 
+[169] 
+[170] 
+[171] 
+[172] 
+[173] 
+[174] 
+[175] 
+[176] 
+[177] 
+[178] 
+[179] 
+[180] 
+[181] 
+[182] 
+[183] 
+[184] 
+[185] 
+[186] 
+[187] 
+[188] 
+[189] 
+[190] 
+[191] 
+[192] 
+[193] 
+[194] 
+[195] 
+[196] 
+[197] 
+[198] 
+[199] 
+[200] 
+}

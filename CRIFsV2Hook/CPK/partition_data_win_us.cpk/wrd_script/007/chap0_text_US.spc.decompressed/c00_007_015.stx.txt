@@ -1,0 +1,203 @@
+{
+[0] <CLT=cltMIND>Un almacén... Me parece demasiado grande para \nuna escuela. 
+[1] Hay demasiadas cosas aquí... 
+[2] ... 
+[3] Y por qué no podría tomarme unas yo también, \n¿eh? 
+[4] <CLT=cltMIND>Es mejor que no lo hagas, Himiko... 
+[5] Ghh... ¡¿Dónde carajos está?! 
+[6] <CLT=cltMIND>Parece bastante agitada... 
+[7] ¿Estás buscando algo? 
+[8] ¡No me asustes así, tú p-perr... persona rarita! 
+[9] <CLT=cltMIND>Vaya, que gran comienzo. Ya puedo ver que ella \nserá todo un reto. 
+[10] Si ella es una persona rarita, entonces tú eres una \nbruja rarita. 
+[11] ¡¿Q-qué?! 
+[12] ¡¿Himiko?! 
+[13] <CLT=cltMIND>No sabía que pudiera ponerse tan a la defensiva. 
+[14] Y yo soy una maga rarita, y... 
+[15] <CLT=cltMIND>Olvídalo... 
+[16] C-creo que es suficiente, Himiko... 
+[17] E-entonces, ¿qué? ¡Solo déjenme en paz, raritos! 
+[18] ...¿Raritos? 
+[19] Sí, conozco a gente como tú. Siempre mirando, \nverdes de envidia. 
+[20] Pero mi cabello es rojo... 
+[21] Por supuesto, ¡cualquiera estaría celoso de mí! 
+[22] Quiero decir, ¿fama, inteligencia y belleza? ¡Soy \nel paquete completo! 
+[23] Ajá... De todos modos, ¿quién eres? Es decir, me \nllamo Maki— 
+[24] ¡¿Q-qué?! ¿R-realmente no sabes quién soy? 
+[25] ¡Soy la hermosa chica genio, cuya belleza e \ninteligencia quedarán grabadas en la historia! 
+[26] ¡La todapoderosa <CLT=cltSTRONG>Astronauta Definitiva<CLT=cltNORMAL>, <CLT=cltSTRONG>Miu Iruma<CLT=cltNORMAL>!\nTe haría bien recordar mi nombre.
+[27] Soy alguien muy importante, ¡siendo que soy la \nprimera astronauta adolescente! 
+[28] ¿De verdad? Eso es impresionante. 
+[29] ¡Claro que sí! ¡Tanto como tus pequeñas te-tet... \ntetillas! 
+[30] <CLT=cltMIND>Me da la impresión que estaba a punto de decir \nalgo un poquito más grave que eso... 
+[31] Normalmente precisarías tomar un examen para \nser una astronauta en entrenamiento... 
+[32] ¡Pero yo tomé el camino trasero y me colé en una \ninstalación de entrenamiento! 
+[33] <CLT=cltMIND>¡¿Qué hiciste *qué*?! 
+[34] ¡¿Y cómo *eso* te vuelve una astronauta?! 
+[35] ¿Eh? No lo hace. Al menos, no si eres tonta y fea. 
+[36] La cosa es, yo no lo soy. ¡Ya estaba trabajando allí \ncomo ingeniera aeroespacial! 
+[37] ¡Así que ya sabían que soy una genial cuando me \ncolé al lugar! ¡Ja-jaj! 
+[38] Entonces... ¿te volviste una astronauta? 
+[39] Bueno, en realidad sigo en entrenamiento... 
+[40] ¡Pero antes de que te des cuenta, estaré en el \nespacio y ustedes perdedoras se quedarán aquí! 
+[41] Ajá... 
+[42] Oh, por cierto. ¿Qué estabas buscando antes? 
+[43] ¿Eh? Oh, eso. Drogas. 
+[44] ¡¿Drogas?! ¡¿Para qué precisas— 
+[45] Para drogarme, ¡duh! Y no voy a compartir! ¡Así \nque lárgate ya, ¿quieres?! 
+[46] Está bien, gruñona. ¡De todos modos no \nqueríamos ninguna! 
+[47] <CLT=cltMIND>No creo que pueda hacer mucho para detenerla... \nTal vez solo esperar que no encuentre nada. 
+[48] <CLT=cltSYSTEM>La <CLT=cltSTRONG>Ficha de Estudiante<CLT=cltSYSTEM> de Miu fue actualizada \nsegún tu interacción con ella. 
+[49] Qué bruta... 
+[50] <CLT=cltMIND>Me parece más una antisocial que bruta... 
+[51] <CLT=cltMIND>¿Cómo ha logrado llegar hasta este punto en su \nvida? 
+[52] ¡¿Eh?! ¡Dejame en paz!\n¡Estoy ocupada!
+[53] <CLT=cltMIND>Esa persona de allí podría ser una\nestudiante <CLT=cltSTRONG>Definitiva<CLT=cltMIND>. Debería preguntarle.
+[54] Sí 
+[55] No 
+[56] ¿Estas dudando? 
+[57] <CLT=cltSYSTEM>¿Deseas salir? 
+[58] <CLT=cltMIND>¿Y esto...? ¿Un "sensor infrarrojo"...? 
+[59] <CLT=cltMIND>Este almacén tiene demasiadas cosas. 
+[60] <CLT=cltMIND>Parece que el almacén también tiene un monitor. 
+[61] <CLT=cltMIND>Están por todos lados. 
+[62] <CLT=cltMIND>Bolas de bolos... Estas cosas son tan pesadas \ncomo para aplastar el cráneo de alguien. 
+[63] <CLT=cltMIND>...Pensar sobre ello me da escalofríos. 
+[64] <CLT=cltMIND>¿Acaso son helicópteros de juguete? ¿Qué \nhacen aquí...? 
+[65] <CLT=cltMIND>Postes para atleismo. Recuerdo jugar con algo \nasí cuando era una niña. 
+[66] <CLT=cltMIND>Aunque las escuelas no suelen tener cosas así, \n¿verdad? 
+[67] <CLT=cltMIND>Colchonetas para ejercicio o yoga. Creo que \nteníamos muchas de estas en el orfanato. 
+[68] <CLT=cltMIND>Una valla... para saltarla. Se siente superficial eso \nde construir tus propios obstáculos. 
+[69] <CLT=cltMIND>¿Cámaras desechables? Uno pensaría que \ntendrían tecnología más moderna... 
+[70] <CLT=cltMIND>No estoy muy segura de qué son... Para mí, no son \nmás que unos químicos. 
+[71] 
+[72] 
+[73] 
+[74] 
+[75] 
+[76] 
+[77] 
+[78] 
+[79] 
+[80] 
+[81] 
+[82] 
+[83] 
+[84] 
+[85] 
+[86] 
+[87] 
+[88] 
+[89] 
+[90] 
+[91] 
+[92] 
+[93] 
+[94] 
+[95] 
+[96] 
+[97] 
+[98] 
+[99] 
+[100] 
+[101] 
+[102] 
+[103] 
+[104] 
+[105] 
+[106] 
+[107] 
+[108] 
+[109] 
+[110] 
+[111] 
+[112] 
+[113] 
+[114] 
+[115] 
+[116] 
+[117] 
+[118] 
+[119] 
+[120] 
+[121] 
+[122] 
+[123] 
+[124] 
+[125] 
+[126] 
+[127] 
+[128] 
+[129] 
+[130] 
+[131] 
+[132] 
+[133] 
+[134] 
+[135] 
+[136] 
+[137] 
+[138] 
+[139] 
+[140] 
+[141] 
+[142] 
+[143] 
+[144] 
+[145] 
+[146] 
+[147] 
+[148] 
+[149] 
+[150] 
+[151] 
+[152] 
+[153] 
+[154] 
+[155] 
+[156] 
+[157] 
+[158] 
+[159] 
+[160] 
+[161] 
+[162] 
+[163] 
+[164] 
+[165] 
+[166] 
+[167] 
+[168] 
+[169] 
+[170] 
+[171] 
+[172] 
+[173] 
+[174] 
+[175] 
+[176] 
+[177] 
+[178] 
+[179] 
+[180] 
+[181] 
+[182] 
+[183] 
+[184] 
+[185] 
+[186] 
+[187] 
+[188] 
+[189] 
+[190] 
+[191] 
+[192] 
+[193] 
+[194] 
+[195] 
+[196] 
+[197] 
+[198] 
+[199] 
+[200] 
+}

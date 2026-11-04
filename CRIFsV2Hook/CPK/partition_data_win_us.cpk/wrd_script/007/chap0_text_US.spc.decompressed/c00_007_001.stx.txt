@@ -1,0 +1,203 @@
+{
+[0] Oh, hey, que tal. \n¿A ustedes también las secuestraron?
+[1] ¡¿S-secuestrarnos?! 
+[2] Pues sí. Estoy bastante seguro que todos fuimos \nsecuestrados. 
+[3] A menos que recuerdes como llegamos aquí... 
+[4] No, no recuerdo. 
+[5] ...Yo tampoco. 
+[6] Je. Los demás tampoco recuerdan nada. Así que \nya somos dieciséis quienes olvidamos todo. 
+[7] E-espera, quieres decir... hay dieciséis de \nnosotros, ¡¿y nadie recuerda nada?! 
+[8] Sip. Dieciséis estudiantes, tal y como aquel oso \ndijo... 
+[9] Me pregunto como puede ser que todos lo \nolvidamos. Ah, bueno. 
+[10] Ustedes parecen estar bien. No estan heridas ni \nnada, al menos. 
+[11] De todos modos, creo que regresaré afuera. Veré \nsi puedo hacer algún nuevo amigo allí. 
+[12] ¿Nuevo amigo? Creí que ya habías conocido a los \ndieciséis estudiantes de la academia. 
+[13] ¿Eh? Oh, no estaba hablando sobre personas. \nVoy a buscar insectos.
+[14] <CLT=cltMIND>¡¿Insectos?! 
+[15] No he podido encontrar ninguno aún, \nlo cual es extraño...
+[16] Quiero decir, hay plantas por todos lados, ¿no es \nasí? 
+[17] Muchas de ellas requieren insectos para llevar el \npolen y así poder reproducirse. 
+[18] Entonces, ¿dónde estan los polinizadores? \nAbejas, moscas, mariposas, escarabajos... 
+[19] Se nota que sabes mucho sobre insectos... 
+[20] ¿Eh? Por supuesto que sí. 
+[21] Aunque claro, no me he introducido aún... 
+[22] Supongo que no podrías haber sabido mi talento \n<CLT=cltSTRONG>Definitivo<CLT=cltNORMAL>, ¿no es así? 
+[23] <CLT=cltMIND>¿Talento <CLT=cltSTRONG>Definitivo<CLT=cltMIND>? ¿Entonces él también es un \n<CLT=cltSTRONG>Estudiante Definitivo<CLT=cltMIND>...? 
+[24] Mi nombre es Rantaro Amami. 
+[25] Soy el <CLT=cltSTRONG>Entomólogo Definitivo<CLT=cltNORMAL>.\nEs un placer conocerte.
+[26] Es un placer conocerte también, Rantaro.\nSoy Maki Harukawa, la <CLT=cltSTRONG>Aventurera Definitiva<CLT=cltNORMAL>.
+[27] <CLT=cltMIND>Le di un codazo a Himiko,\nintentando que también se introduzca.
+[28] ¿Le gustan los insectos...? 
+[29] Pfff. Y yo que pensaba que podrías ser una \npersona razonable. 
+[30] Los insectos también son animales que viven y \nrespiran. No veo ningún problema en que me \ngusten. 
+[31] No cuestionas a la gente que ama a\nlos gatos o perros, ¿no es así?
+[32] Entonces, ¿por qué cuestionarme a mí por los \ninsectos? 
+[33] Uy... está empezando a dar miedo... ¿Podemos \nirnos? 
+[34] <CLT=cltMIND>Sería lo ideal. 
+[35] <CLT=cltSYSTEM>La <CLT=cltSTRONG>Ficha de Estudiante<CLT=cltSYSTEM> de Rantaro fue \nactualizada según tu interacción con él. 
+[36] Si realmente no hay insectos...¿Cómo pudo \nhaberse logrado un ecosistema como este? 
+[37] Tan lleno de plantas y al mismo tiempo sin \ninsectos... 
+[38] <CLT=cltMIND>Parece estar muy molesto por esto... 
+[39] No parece que podamos salir del vestíbulo de \nentrada. 
+[40] <CLT=cltSYSTEM>*click...click...* 
+[41] Si pudiesemos mover esta estantería podría \nentrar, pero... 
+[42] <CLT=cltMIND>Así que... ¿este es el gimnasio? 
+[43] Está cerrado.\nSupongo que no podremos entrar.
+[44] Está cerrado... 
+[45] Está cerrado.\nDeberíamos buscar en otro sitio.
+[46] Okay... 
+[47] El baño de chicos.. Incluso yo tengo estándares\nsobre que estoy dispuesta a explorar.
+[48] Me alegra saber que no eres *tan* rara, Harukawa. 
+[49] Pero si de verdad estas curiosa...\nPodría pegarle una mirada por ti.
+[50] N-no gracias.\nPrefiero no saber.
+[51] <CLT=cltMIND>No debería haber nada extraño en los baños, \n¿verdad? 
+[52] Laboratorio de investigación B 
+[53] El baño de chicas, ¿eh? 
+[54] Ahora mismo no preciso ir... 
+[55] Solo quiero asegurarme de que\nno haya nada extraño allí.
+[56] Si tú sí necesitas ir, eso...\nno es asunto mío.
+[57] <CLT=cltMIND>No necesito usar el baño ahora mismo. 
+[58] Supongo que estas escaleras\nllevan al nivel subterráneo.
+[59] Deberíamos tener cuidado. 
+[60] Podría haber algo peligroso\nen este sótano...
+[61] Tienes razón...\nNyeh. Vamos...
+[62] <CLT=cltMIND>¿Eh? Estas rejas... 
+[63] 
+[64] 
+[65] 
+[66] 
+[67] 
+[68] 
+[69] 
+[70] 
+[71] 
+[72] 
+[73] 
+[74] 
+[75] 
+[76] 
+[77] 
+[78] 
+[79] 
+[80] 
+[81] 
+[82] 
+[83] 
+[84] 
+[85] 
+[86] 
+[87] 
+[88] 
+[89] 
+[90] 
+[91] 
+[92] 
+[93] 
+[94] 
+[95] 
+[96] 
+[97] 
+[98] 
+[99] 
+[100] 
+[101] 
+[102] 
+[103] 
+[104] 
+[105] 
+[106] 
+[107] 
+[108] 
+[109] 
+[110] 
+[111] 
+[112] 
+[113] 
+[114] 
+[115] 
+[116] 
+[117] 
+[118] 
+[119] 
+[120] 
+[121] 
+[122] 
+[123] 
+[124] 
+[125] 
+[126] 
+[127] 
+[128] 
+[129] 
+[130] 
+[131] 
+[132] 
+[133] 
+[134] 
+[135] 
+[136] 
+[137] 
+[138] 
+[139] 
+[140] 
+[141] 
+[142] 
+[143] 
+[144] 
+[145] 
+[146] 
+[147] 
+[148] 
+[149] 
+[150] 
+[151] 
+[152] 
+[153] 
+[154] 
+[155] 
+[156] 
+[157] 
+[158] 
+[159] 
+[160] 
+[161] 
+[162] 
+[163] 
+[164] 
+[165] 
+[166] 
+[167] 
+[168] 
+[169] 
+[170] 
+[171] 
+[172] 
+[173] 
+[174] 
+[175] 
+[176] 
+[177] 
+[178] 
+[179] 
+[180] 
+[181] 
+[182] 
+[183] 
+[184] 
+[185] 
+[186] 
+[187] 
+[188] 
+[189] 
+[190] 
+[191] 
+[192] 
+[193] 
+[194] 
+[195] 
+[196] 
+[197] 
+[198] 
+[199] 
+[200] 
+}

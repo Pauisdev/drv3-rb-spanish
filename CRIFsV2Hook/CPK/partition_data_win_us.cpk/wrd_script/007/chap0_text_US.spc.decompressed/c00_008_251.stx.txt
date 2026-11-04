@@ -1,0 +1,203 @@
+{
+[0] ... 
+[1] <CLT=cltMIND>Este tipo se ve un poco intimidante... 
+[2] <CLT=cltMIND>He visto peores... pero creo que mantendré mi \ndistancia. 
+[3] ¿Hola? 
+[4] ...¿Mm? 
+[5] ¡Oh! ¡Gracias! 
+[6] ...¿Gracias? 
+[7] ¡Oh! ¿Gonta te asustó? 
+[8] Gonta espera no haberte asustado. No es fácil \nhablar con Gonta. Gonta lo sabe. 
+[9] ¡Pero tú hablaste con Gonta, así que Gonta dice \ngracias! ¡Gracias por hablarle a Gonta! 
+[10] Oh. Bueno, gracias por ser tan educado al \nrespeto, supongo. 
+[11] ¡Oh! Gonta tonto. Gonta se olvidó de presentarse. 
+[12] Emmm, El nombre de Gonta es Gonta Gokuhara. \nGonta es el <CLT=cltSTRONG>Maestro Definitivo de Aikido<CLT=cltNORMAL>. 
+[13] ¡Gonta quiere convertirse en un caballero! ¡Esa es \nla meta de Gonta! 
+[14] Es un placer conocerte, Gonta. soy Maki Harukawa,\n<CLT=cltSTRONG>Aventurera Definitiva<CLT=cltNORMAL>.
+[15] <CLT=cltMIND>Parece que me equivoqué al juzgar por \napariencia. Realmente es muy bueno. 
+[16] Mm... ¿Maki no está asustada de Gonta? Maki no \nparece asustada. 
+[17] Quizás estaba un poco cautelosa... 
+[18] Harukawa... ¿ya puedo dejar de esconderme? 
+[19] ¿E-eh? ¡H-hey! ¡Deja de tironearme el pelo! 
+[20] ¡D-da m-miedo! 
+[21] Perdón por ella. Ella es un poquito... 
+[22] Está bien. Gonta está acostumbrado a ello. Lo \nllamaban aterrador desde niño. 
+[23] ¿Desde que eras un niño? 
+[24] Sí. Niño Gonta era más grande que los demás \nniños. 
+[25] Así que niño Gonta siempre jugaba solo, y un día se \nperdió en el bosque... 
+[26] ¿Eh...? Eso debe haber sido duro. ¿Lograste \nencontrar el camino de vuelta a casa? 
+[27] ¡Sí! Diez años después. 
+[28] ¡¿D-diez años?! 
+[29] Mhm. Pero Gonta estuvo bien. El hombre del \nbosque cuidó de Gonta. 
+[30] ¡El hombre del bosque también le enseñó a Gonta \naikido! ¡Así que Gonta puede hacer esto! 
+[31] E-espera, ¿hacer qué— 
+[32] <CLT=cltMIND>De repente, ¡sentí que me levantaban por los \naires! 
+[33] ¡Aaah! 
+[34] <CLT=cltMIND>Cerré los ojos con fuerza y me preparé para el \nimpacto... 
+[35] <CLT=cltMIND>Pero cuando los abrí de nuevo, estaba acostada \nsobre un suave lecho de pasto. 
+[36] ¿Entonces? ¿Cómo estuvo? 
+[37] G-gran demostración, Gonta... 
+[38] ¡Gracias! 
+[39] Definitivamente es un monstruo... 
+[40] <CLT=cltMIND>Nota mental: nunca toparse con este tipo. 
+[41] <CLT=cltSYSTEM>La <CLT=cltSTRONG>Ficha de Estudiante<CLT=cltSYSTEM> de Gonta fue actualizada \nsegún tu interacción con él. 
+[42] Este lugar es tan extraño... 
+[43] Gonta ha estado buscando insectos por \ndiversión. Pero aquí no hay ninguno... 
+[44] <CLT=cltSYSTEM> 
+[45] <CLT=cltSYSTEM>*click...click...* 
+[46] Esta puerta está cerrada. Deberíamos buscar en \notro sitio. 
+[47] Vale... 
+[48] Algún tipo de estatua... 
+[49] Parece un ninja. 
+[50] Sin embargo, ¿por qué está esto aquí? 
+[51] I don't get what this thing is at all...
+[52] Neither do I... Maybe a pedestal of\nsome sort?
+[53] Cyber Area Key
+[54] Ninja Scroll
+[55] 
+[56] 
+[57] 
+[58] 
+[59] 
+[60] 
+[61] 
+[62] 
+[63] 
+[64] 
+[65] 
+[66] 
+[67] 
+[68] 
+[69] 
+[70] 
+[71] 
+[72] 
+[73] 
+[74] 
+[75] 
+[76] 
+[77] 
+[78] 
+[79] 
+[80] 
+[81] 
+[82] 
+[83] 
+[84] 
+[85] 
+[86] 
+[87] 
+[88] 
+[89] 
+[90] 
+[91] 
+[92] 
+[93] 
+[94] 
+[95] 
+[96] 
+[97] 
+[98] 
+[99] 
+[100] 
+[101] 
+[102] 
+[103] 
+[104] 
+[105] 
+[106] 
+[107] 
+[108] 
+[109] 
+[110] 
+[111] 
+[112] 
+[113] 
+[114] 
+[115] 
+[116] 
+[117] 
+[118] 
+[119] 
+[120] 
+[121] 
+[122] 
+[123] 
+[124] 
+[125] 
+[126] 
+[127] 
+[128] 
+[129] 
+[130] 
+[131] 
+[132] 
+[133] 
+[134] 
+[135] 
+[136] 
+[137] 
+[138] 
+[139] 
+[140] 
+[141] 
+[142] 
+[143] 
+[144] 
+[145] 
+[146] 
+[147] 
+[148] 
+[149] 
+[150] 
+[151] 
+[152] 
+[153] 
+[154] 
+[155] 
+[156] 
+[157] 
+[158] 
+[159] 
+[160] 
+[161] 
+[162] 
+[163] 
+[164] 
+[165] 
+[166] 
+[167] 
+[168] 
+[169] 
+[170] 
+[171] 
+[172] 
+[173] 
+[174] 
+[175] 
+[176] 
+[177] 
+[178] 
+[179] 
+[180] 
+[181] 
+[182] 
+[183] 
+[184] 
+[185] 
+[186] 
+[187] 
+[188] 
+[189] 
+[190] 
+[191] 
+[192] 
+[193] 
+[194] 
+[195] 
+[196] 
+[197] 
+[198] 
+[199] 
+[200] 
+}

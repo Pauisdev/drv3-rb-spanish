@@ -1,0 +1,203 @@
+{
+[0] <CLT=cltMIND>Parece ser... un comedor. 
+[1] <CLT=cltMIND>Pero al igual que en el resto de lugares, está lleno \nde vegetación. 
+[2] Aquí hay más plantas... 
+[3] ¿Será que puedo hacer un hechizo de fuego? 
+[4] ... 
+[5] <CLT=cltMIND>Parece distrado. Tendré que llamar su atención. 
+[6] ¿Hola? 
+[7] ¡Aaaah! 
+[8] O-oh. P-perdón... No te vi. 
+[9] Está bien, tranquilo. 
+[10] <CLT=cltMIND>Parece que se asusta fácilmente. 
+[11] ...¡Bu! 
+[12] ¡Aaah! 
+[13] Je, ¿viste eso? Saltó altísimo, su cabeza debe de \nhaber tocado el techo... 
+[14] <CLT=cltMIND>No lo molestes así, Himiko... 
+[15] ¡N-no te metas conmigo! 
+[16] <CLT=cltMIND>¿Eh? Supongo que este tipo tiene al menos algo de \ncarácter. 
+[17] Lo siento. ¿Qué tal si comenzamos de nuevo? 
+[18] Me llamo Maki Harukawa, la <CLT=cltSTRONG>Aventurera \nDefinitiva<CLT=cltNORMAL>. 
+[19] Ah... 
+[20] Me llamo... Shuichi Saihara. Me dicen el <CLT=cltSTRONG>Pianista \nDefinitivo<CLT=cltNORMAL>, pero... 
+[21] ...No merezco ser un <CLT=cltSTRONG>Estudiante Definitivo<CLT=cltNORMAL>. Solo \nempecé a tocar como hobby... 
+[22] ¿No suele ser así para todos los talentos \n<CLT=cltSTRONG>Definitivos<CLT=cltNORMAL>? 
+[23] Sí, pero... Ni siquiera soy tan bueno en ello... 
+[24] Nyeeeh. Ya veremos ello... cuando te \nescuchemos tocar. 
+[25] ¿E-eh? ¿Acaso hay un piano por aquí? 
+[26] Pasamos por una puerta que se veía rara... 
+[27] Parecía un piano. ¿Recuerdas, Harukawa? 
+[28] <CLT=cltMIND>Me parece recordar algo así... ¿Quizás había un \npiano allí? 
+[29] B-bien, la revisaré luego... Eres bienvenida a \nsentarte y escuchar, si es que hay un piano. 
+[30] <CLT=cltSYSTEM>La <CLT=cltSTRONG>Ficha de Estudiante<CLT=cltSYSTEM> de Shuichi fue actualizada \nsegún tu interacción con él. 
+[31] En una situación como esta... 
+[32] O-oh, no me di cuenta que seguías aquí. 
+[33] Pero ya que estas aquí... ¿Tienes alguna idea de \ncomo llegamos aquí? 
+[34] Lamentablemente, no. Ninguno de nosotros \nrecuerda. 
+[35] Eso supuse... pero me pregunto, ¿por qué será...? 
+[36] <CLT=cltMIND>Esta chica tiene clips de notas musicales en su \npelo. ¿Será que le gusta la música? 
+[37] ¿Hm...? 
+[38] ¡Oh! ¡Hey, hola! ¡Me llamo Kaede Akamatsu y soy \nla <CLT=cltSTRONG>Artista Definitiva<CLT=cltNORMAL>! 
+[39] Es un placer conocerte, Kaede. Soy Maki \nHarukawa, la <CLT=cltSTRONG>Aventurera Definitiva<CLT=cltNORMAL>. 
+[40] ¿Así que eres la <CLT=cltSTRONG>Artista Definitiva<CLT=cltNORMAL>...? ¿Te gusta \npintar o esculpir? 
+[41] Ufff... Siempre esa pregunta, eh. 
+[42] Recuerdo cuando me presenté como artista en la \nescuela y me metieron al club de arte... 
+[43] Pero en realidad soy una artista musical. ¡Escribo \ny toco música con mis propias manos! 
+[44] Amo los sintetizadores, y mi género favorito es el \nEDM... aunque me gusta experimentar. 
+[45] Oh. Ahora que lo mencionas... Creo que he visto tu \nnombre en unos álbums que tengo. 
+[46] Si logramos salir de aquí, los escucharé. 
+[47] ¿Si logramos salir...? No digas eso. \n¡Definitivamente vamos a escapar! 
+[48] Quiero decir, incluso ahora, ¡estoy buscando una \nforma de salir de aquí! 
+[49] ¡Solo aguanta un poco más y te aseguro que \nestaremos en casa antes de darnos cuenta! 
+[50] <CLT=cltMIND>Realmente espero que sea así de simple... 
+[51] <CLT=cltMIND>Hablando de casa... me pregunto, ¿dónde estaría \neso para mí? 
+[52] <CLT=cltMIND>...*Ella* quizás ya se mudó. 
+[53] Tal vez puedo teletransportarnos de vuelta a \ncasa... con mi magia. 
+[54] ¿Teletransportación? ¿Magia? ¿De verdad \npuedes hacer algo así? 
+[55] Tal vez... Si me esfuerzo lo suficiente. 
+[56] Hnnngh... 
+[57] ...Olvidalo. Supongo que después de todo la \nmagia no es real... 
+[58] Oww, ¡no te rindas tan fácilmente! 
+[59] Incluso si la magia no es real... ¡Mi próximo album, \n"Making it Magic", sí lo es! 
+[60] <CLT=cltMIND>...¿Está tratando de publicitarnos su música? 
+[61] ...Tienes razón. ¡La magia no puede ser mentira! \nYo lo sé... ¡porque soy una maga! 
+[62] <CLT=cltMIND>No creo que eso tenga algo que ver con lo que \nacaba de decir... 
+[63] <CLT=cltSYSTEM>La <CLT=cltSTRONG>Ficha de Estudiante<CLT=cltSYSTEM> de Kaede fue actualizada \nsegún tu interacción con ella. 
+[64] No solamente es que estan bloqueadas las \npuertas y ventanas... 
+[65] Oh, ¡Maki! No me di cuenta que seguías aquí. 
+[66] Lo siento. Es que pensé que algo te estaba \nmolestando. 
+[67] Estoy bien. Deberías concentrarte en conocer a \nlos demás. 
+[68] Conocernos el uno al otro ayudará a que \ntrabajemos juntos. 
+[69] Cierto. Entonces, me voy. 
+[70] <CLT=cltMIND>Me pregunto si esos dos son estudiantes \n<CLT=cltSTRONG>Definitivos<CLT=cltMIND>. Debería preguntarles. 
+[71] Sí 
+[72] No 
+[73] ¿Estas dudando? 
+[74] <CLT=cltSYSTEM>¿Deseas salir? 
+[75] <CLT=cltMIND>Me pregunto por qué una escuela tendría un \nmonitor como este... 
+[76] <CLT=cltMIND>Parecen ser las reglas del comedor... 
+[77] <CLT=cltSYSTEM>"Reglas del Comedor" 
+[78] <CLT=cltSYSTEM>"Puedes comer cualquier alimento que \nencuentres en el comedor." 
+[79] <CLT=cltSYSTEM>"Por favor, hazte cargo de los utensilios y platos \nque uses, limpiando después de usarlos." 
+[80] <CLT=cltSYSTEM>"El comedor estará cerrado durante la noche." 
+[81] <CLT=cltMIND>Nada de bocadillos de medianoche para mí... 
+[82] <CLT=cltMIND>Esta puerta y ventanas tienen alambre de púas. 
+[83] <CLT=cltMIND>Parece que alguien realmente no quiere que \nsalgamos de aquí... 
+[84] <CLT=cltMIND>Esto parece una salida, pero está cerrada. 
+[85] 
+[86] 
+[87] 
+[88] 
+[89] 
+[90] 
+[91] 
+[92] 
+[93] 
+[94] 
+[95] 
+[96] 
+[97] 
+[98] 
+[99] 
+[100] 
+[101] 
+[102] 
+[103] 
+[104] 
+[105] 
+[106] 
+[107] 
+[108] 
+[109] 
+[110] 
+[111] 
+[112] 
+[113] 
+[114] 
+[115] 
+[116] 
+[117] 
+[118] 
+[119] 
+[120] 
+[121] 
+[122] 
+[123] 
+[124] 
+[125] 
+[126] 
+[127] 
+[128] 
+[129] 
+[130] 
+[131] 
+[132] 
+[133] 
+[134] 
+[135] 
+[136] 
+[137] 
+[138] 
+[139] 
+[140] 
+[141] 
+[142] 
+[143] 
+[144] 
+[145] 
+[146] 
+[147] 
+[148] 
+[149] 
+[150] 
+[151] 
+[152] 
+[153] 
+[154] 
+[155] 
+[156] 
+[157] 
+[158] 
+[159] 
+[160] 
+[161] 
+[162] 
+[163] 
+[164] 
+[165] 
+[166] 
+[167] 
+[168] 
+[169] 
+[170] 
+[171] 
+[172] 
+[173] 
+[174] 
+[175] 
+[176] 
+[177] 
+[178] 
+[179] 
+[180] 
+[181] 
+[182] 
+[183] 
+[184] 
+[185] 
+[186] 
+[187] 
+[188] 
+[189] 
+[190] 
+[191] 
+[192] 
+[193] 
+[194] 
+[195] 
+[196] 
+[197] 
+[198] 
+[199] 
+[200] 
+}

@@ -1,0 +1,203 @@
+{
+[0] ¡Heeey! ¡Esperame! 
+[1] ¡Por favor, detente! ¡No te me acerques! 
+[2] <CLT=cltMIND>Un chico de cabello negro persiguiendo a un \nchico extraño de cabello blanco... 
+[3] <CLT=cltMIND>¿Qué está pasando aquí? 
+[4] ¿Nyeh? Pensé que estaba prohibido correr en la \nescuela. 
+[5] Que pereza intentar atraparlos, te lo dejaré a ti, \nHarukawa. 
+[6] No he mojado la cama en todo este año... Así que \ndefinitivamente no soy una bebé. 
+[7] No le confiaría a ese chico unos niños ni aunque \nme pagaran. 
+[8] Harukawa, ¿realmente crees que sea un \ncuidador de niños? 
+[9] No tenemos pruebas de lo contrario. De todos \nmodos hay talentos más raros aquí. 
+[10] Como la "<CLT=cltSTRONG>Maga Definitiva<CLT=cltNORMAL>" o la "<CLT=cltSTRONG>Amnésica \nDefinitiva<CLT=cltNORMAL>". 
+[11] ... 
+[12] ...¿Nyeh? No recuerdo haber conocido a alguien \ncon un talento como ese. 
+[13] Tienes razón, no lo hemos hecho. Era una broma. 
+[14] ¡Oh, vamos! ¡Espera! 
+[15] ¡Quiero revisar tu cuerpo! ¡Siempre quise ser \namigo de un robot! 
+[16] ¿Un robot? 
+[17] Muy interesante tu reacción pero, tengo que \npreguntar... ¡¿Qué quieres de mí?! 
+[18] Dices que es amistad, ¡pero conozco muchos \nhumanos que dicen una cosa y quieren otra! 
+[19] <CLT=cltMIND>Sí que luce como un robot con esa forma en la que \nhabla... 
+[20] Aww... Pero realmente solo quiero que seamos \namigos. ¿Por favooor? 
+[21] ¡Si realmente esa es tu intención, entonces \npodrías introducirte primero! 
+[22] ¡Okay! 
+[23] ¡Me llamo Kokichi Oma, soy el <CLT=cltSTRONG>Cuidador De Niños \nDefinitivo<CLT=cltNORMAL>! 
+[24] ¿Entonces? ¿Cómo estuve? ¿Satisfecho, Mr. \nRobot? 
+[25] Está bien, Kokichi... Supongo que debería \nintroducirme. 
+[26] Soy el <CLT=cltSTRONG>Antropólogo Definitivo<CLT=cltNORMAL>.\n¡Puedes llamarme Keebo!
+[27] <CLT=cltMIND>Un cuidador de niños que actúa como uno, y un \nrobot antropólogo... 
+[28] ¿Y ustedes dos? ¿Quiénes son? 
+[29] Oh, soy la <CLT=cltSTRONG>Aventurera Definitiva<CLT=cltNORMAL>, Maki Harukawa.\nEs un placer conocerlos, Keebo, Kokichi.
+[30] ¿Y tú? 
+[31] ...¿Por qué debería decirle mi nombre a un robot? 
+[32] ¡Grgh...! Este es el problema de dejar que un robot \nhaga trabajo de campo... 
+[33] Así que eres un robot... ¿y también un <CLT=cltSTRONG>Estudiante \nDefinitivo<CLT=cltNORMAL>? 
+[34] Sí, lo soy. Sé que puede sonar raro. 
+[35] Después de todo, soy un robot. ¿Cómo podría ser \nun "<CLT=cltSTRONG>Estudiante De Secundaria<CLT=cltNORMAL>" <CLT=cltSTRONG>Definitivo<CLT=cltNORMAL>? 
+[36] <CLT=cltMIND>Buena pregunta... 
+[37] ¿Siquiera pueden atender secundaria los \nrobots? 
+[38] Bueno, es posible, ya que yo era un caso especial... 
+[39] Mi pa— Quiero decir, el Profesor Idabashi, mi \ncreador, me equipó con una "fuerte IA". 
+[40] Tal como a un humano, puedo obtener y sintetizar \ninformación para poder aprender y madurar. 
+[41] Fui criado como un chico humano, para que \npueda comprender la vida humana promedio. 
+[42] Como parte de ello, me inscribió en secundaria... 
+[43] Como resultado, puedo comprender la \nmentalidad del adolescente promedio. 
+[44] No me gustan los adolescentes... ¡Son muy \nalborotados! Siempre se meten en problemas... 
+[45] ¡¿Acaso no eres un adolescente?! 
+[46] Bueno... quizás, ¡o tal vez tengo 10,000 años! 
+[47] <CLT=cltMIND>Nadie se va a tragar esa... 
+[48] Nadie se va a tragar esa... 
+[49] ¿Q-qué? 
+[50] Nee-heehee... Te atrapé, ¿eh? Acabo de leer tu \nmente, ¡¿eh?! 
+[51] Bueno, bien por tí que desconfíes, señorita \nHarukawa. Después de todo, soy un mentiroso. 
+[52] Nyeeeh... no pareces ser el\n<CLT=cltSTRONG>Cuidador De Niños Definitivo<CLT=cltNORMAL>.
+[53] ¿Estabas mintiendo sobre ello? 
+[54] ¡Nop! Realmente soy un cuidador de niños. 
+[55] Así que, ¿acaso la señorita pelirroja necesita \nbiberón? ¿O puede que sea hora de su siesta? 
+[56] ¡No soy una bebé! 
+[57] Aw, ¿ni siquiera vas a seguirme el juego?\nQué aburrida.
+[58] <CLT=cltMIND>El <CLT=cltSTRONG>Cuidador De Niños Definitivo<CLT=cltMIND>...\nMás bien el <CLT=cltSTRONG>Mocoso Inmaduro Definitivo<CLT=cltMIND>.
+[59] <CLT=cltMIND>Me recuerda un poco a los niños de allí... 
+[60] <CLT=cltSYSTEM>Ambas <CLT=cltSTRONG>Fichas de Estudiante<CLT=cltSYSTEM> fueron actualizadas \nsegún tu interacción con ellos. 
+[61] Sabes, si necesitas ayuda con algo, puedo darte \nuna mano. 
+[62] Me ofrecí a cambiarle el aceite al señor Keebo, \npero dice que funciona con electricidad. 
+[63] Por ahora estamos bien, pero gracias por \nofrecerte. 
+[64] <CLT=cltMIND>A pesar de ser inmaduro, parece ser confiable. 
+[65] Puede que estemos en una extraña situación... 
+[66] Pero estoy seguro que con tiempo y esfuerzo, \npodremos llegar a llevarnos bien. 
+[67] Al menos eso espero. 
+[68] <CLT=cltMIND>Me pregunto si aquellos dos son estudiantes \n<CLT=cltSTRONG>Definitivos<CLT=cltMIND>. Debería preguntarles. 
+[69] Sí 
+[70] No 
+[71] ¿Estas dudando? 
+[72] <CLT=cltSYSTEM>¿Deseas salir? 
+[73] <CLT=cltMIND>El pizarron en realidad es una pantalla LCD.\n¿Cuánto pudo haber costado...?
+[74] <CLT=cltMIND>¿Por qué estan alambradas las ventanas? 
+[75] <CLT=cltMIND>It's a vent!!!!!!!! u vented (very real message that will appear in-game)
+[76] <CLT=cltMIND>(You cannot examine it until Chapter 1.)
+[77] <CLT=cltMIND>No entiendo porque una escuela tendría un \nmonitor como este... 
+[78] 
+[79] 
+[80] 
+[81] 
+[82] 
+[83] 
+[84] 
+[85] 
+[86] 
+[87] 
+[88] 
+[89] 
+[90] 
+[91] 
+[92] 
+[93] 
+[94] 
+[95] 
+[96] 
+[97] 
+[98] 
+[99] 
+[100] 
+[101] 
+[102] 
+[103] 
+[104] 
+[105] 
+[106] 
+[107] 
+[108] 
+[109] 
+[110] 
+[111] 
+[112] 
+[113] 
+[114] 
+[115] 
+[116] 
+[117] 
+[118] 
+[119] 
+[120] 
+[121] 
+[122] 
+[123] 
+[124] 
+[125] 
+[126] 
+[127] 
+[128] 
+[129] 
+[130] 
+[131] 
+[132] 
+[133] 
+[134] 
+[135] 
+[136] 
+[137] 
+[138] 
+[139] 
+[140] 
+[141] 
+[142] 
+[143] 
+[144] 
+[145] 
+[146] 
+[147] 
+[148] 
+[149] 
+[150] 
+[151] 
+[152] 
+[153] 
+[154] 
+[155] 
+[156] 
+[157] 
+[158] 
+[159] 
+[160] 
+[161] 
+[162] 
+[163] 
+[164] 
+[165] 
+[166] 
+[167] 
+[168] 
+[169] 
+[170] 
+[171] 
+[172] 
+[173] 
+[174] 
+[175] 
+[176] 
+[177] 
+[178] 
+[179] 
+[180] 
+[181] 
+[182] 
+[183] 
+[184] 
+[185] 
+[186] 
+[187] 
+[188] 
+[189] 
+[190] 
+[191] 
+[192] 
+[193] 
+[194] 
+[195] 
+[196] 
+[197] 
+[198] 
+[199] 
+[200] 
+}

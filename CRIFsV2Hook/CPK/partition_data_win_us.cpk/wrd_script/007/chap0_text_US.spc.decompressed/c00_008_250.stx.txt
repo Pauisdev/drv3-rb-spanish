@@ -1,0 +1,203 @@
+{
+[0] <CLT=cltMIND>Cielos azules. 
+[1] <CLT=cltMIND>Sol radiante. 
+[2] <CLT=cltMIND>Brisa suave. 
+[3] <CLT=cltMIND>Y— 
+[4] <CLT=cltMIND>Un enorme muro que nos rodeaba como una \njaula, atrapándonos en el terreno de la escuela. 
+[5] <CLT=cltMIND>Realmente no había una salida. 
+[6] ...Bueno, supongo que eso lo confirma. Estamos \natrapadas aquí. 
+[7] A menos que sea posible escapar de todo esto... 
+[8] Nyeeeh... Qué pereza. 
+[9] ¿Cómo hicieron siquiera este enorme muro? \n¿Algún tipo de truco de magia? 
+[10] No creo que importe cómo lo hicieron... sino \ncómo podemos escaparlo. 
+[11] Si es que siquiera podemos. 
+[12] ¿Eh? Claro que podemos. ¡No te rindas tan \nfácilmente! 
+[13] Convertir en costumbre el rendirse debe ser la \npeor cosa que puedas hacerte. 
+[14] De todos modos, lo único que debo hacer para \nsalir de aquí es agitar mi varita mágica, y... 
+[15] ¿Varita mágica? 
+[16] Vaya. Todavía no me presenté, ¿verdad? 
+[17] ¡Soy Kaito Momota, el Ilustre Ilusionista! \n¡Contempla con asombro las hazañas del <CLT=cltSTRONG>Mago \nDefinitivo<CLT=cltNORMAL>! 
+[18] Es un placer conocerte, Kaito. Soy— 
+[19] Entonces, ¿qué te parece? ¡Soy un mago! ¿Acaso \nno es genial? 
+[20] ... 
+[21] Wow... ¿un mago...? ¿Podrías enseñarme tu \nmagia? ¡¿Por favor?! 
+[22] ¡Ja! ¡Claro! Tal vez incluso pueda añadirte a la \ntripulación, una vez salgamos de aquí. 
+[23] ¿La tripulación...? ¿Eso qué significa? 
+[24] Bueno, no trabajo solo. ¡Tengo un compañero \nque trabaja conmigo! Es un tipo bastante \ningenioso. 
+[25] Comenzamos nuestro espectáculo de magia y \nnos volvimos famosos de la noche a la mañana. \n¡Así de increíbles somos! 
+[26] Suena completamente loco. 
+[27] ¿Eso crees? Quiero decir... 
+[28] Al principio, mis abuelos me criticaron mucho por \nirme a comprar cosas para el espectáculo. 
+[29] La gente creía que no era posible que un tipo como \nyo fuera un buen mago, ¡pero no me rendí! 
+[30] ¡Y ahora mírame! ¡Superé esa barrera y me \nconvertí en el <CLT=cltSTRONG>Mago Definitivo<CLT=cltNORMAL>! 
+[31] ¡Así que debe haber alguna manera de superar \nesta barrera también! 
+[32] Vale... Entonces, ¿tienes alguna idea para \nlograrlo? 
+[33] ¡Ese no es el problema! 
+[34] Estoy bastante segura que ese *es* el problema... 
+[35] <CLT=cltMIND>Este tipo se jacta hablando, pero en realidad es un \ncabeza hueca, ¿eh?... 
+[36] <CLT=cltSYSTEM>La <CLT=cltSTRONG>Ficha de Estudiante<CLT=cltSYSTEM> de Kaito fue actualizada \nsegún tu interacción con él. 
+[37] ¡No hay barreras que no puedas superar! ¡Claro, \nya pensaremos cómo salir después! 
+[38] <CLT=cltMIND>Estoy bastante segura de que *ahora* \ndeberíamos estar pensando una forma de salir. 
+[39] <CLT=cltMIND>Todavía no hemos explorado todo... Por ahora \ndeberíamos concentrarnos en este lugar. 
+[40] <CLT=cltMIND>Parece que lleva de vuelta a la escuela. Aunque \nestá cerrado... 
+[41] <CLT=cltSYSTEM>*click...click...* 
+[42] Esta puerta está cerrada. Deberíamos buscar en \notro sitio. 
+[43] Vale... 
+[44] Some kind of giant door... We can't\nseem to open it, though.
+[45] A... monument of some kind? I wonder what\nit's for...
+[46] There's a door over there... we\ncan't reach it, though.
+[47] That's annoying...
+[48] This seems like it has something\nto do with the door.
+[49] I wonder if it opens it...?
+[50] Love Suite
+[51] 
+[52] 
+[53] 
+[54] 
+[55] 
+[56] 
+[57] 
+[58] 
+[59] 
+[60] 
+[61] 
+[62] 
+[63] 
+[64] 
+[65] 
+[66] 
+[67] 
+[68] 
+[69] 
+[70] 
+[71] 
+[72] 
+[73] 
+[74] 
+[75] 
+[76] 
+[77] 
+[78] 
+[79] 
+[80] 
+[81] 
+[82] 
+[83] 
+[84] 
+[85] 
+[86] 
+[87] 
+[88] 
+[89] 
+[90] 
+[91] 
+[92] 
+[93] 
+[94] 
+[95] 
+[96] 
+[97] 
+[98] 
+[99] 
+[100] 
+[101] 
+[102] 
+[103] 
+[104] 
+[105] 
+[106] 
+[107] 
+[108] 
+[109] 
+[110] 
+[111] 
+[112] 
+[113] 
+[114] 
+[115] 
+[116] 
+[117] 
+[118] 
+[119] 
+[120] 
+[121] 
+[122] 
+[123] 
+[124] 
+[125] 
+[126] 
+[127] 
+[128] 
+[129] 
+[130] 
+[131] 
+[132] 
+[133] 
+[134] 
+[135] 
+[136] 
+[137] 
+[138] 
+[139] 
+[140] 
+[141] 
+[142] 
+[143] 
+[144] 
+[145] 
+[146] 
+[147] 
+[148] 
+[149] 
+[150] 
+[151] 
+[152] 
+[153] 
+[154] 
+[155] 
+[156] 
+[157] 
+[158] 
+[159] 
+[160] 
+[161] 
+[162] 
+[163] 
+[164] 
+[165] 
+[166] 
+[167] 
+[168] 
+[169] 
+[170] 
+[171] 
+[172] 
+[173] 
+[174] 
+[175] 
+[176] 
+[177] 
+[178] 
+[179] 
+[180] 
+[181] 
+[182] 
+[183] 
+[184] 
+[185] 
+[186] 
+[187] 
+[188] 
+[189] 
+[190] 
+[191] 
+[192] 
+[193] 
+[194] 
+[195] 
+[196] 
+[197] 
+[198] 
+[199] 
+[200] 
+}

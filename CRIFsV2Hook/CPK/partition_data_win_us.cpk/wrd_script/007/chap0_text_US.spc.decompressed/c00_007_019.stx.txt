@@ -1,0 +1,203 @@
+{
+[0] <CLT=cltMIND>Una biblioteca... 
+[1] <CLT=cltMIND>El olor a libros viejos es fuerte. A juzgar por el \npolvo, este lugar no se usa mucho. 
+[2] Está más desordenado que mi habitación en uno \nde esos días... 
+[3] De todos modos, ¿quién deja libros en el suelo? 
+[4] Uno pensaría que al menos los amontonarían \ncomo sea en las estanterías... 
+[5] Hey, hola. Me llamo Maki Haru— 
+[6] ¡¡¡¡¡HAAAAIYAAAAAAAHHH!!!!! 
+[7] ¡¿N-nyeh?! 
+[8] ¡Ah! 
+[9] ¡Oh! ¡Lo siento, chicas! 
+[10] ¡Estoy gritando para animarme antes del partido! 
+[11] O al menos, estaría haciendo eso si hubiera un \npartido por el que animarse de por sí. 
+[12] ¡Pero de todos modos puedo animarme a mí \nmisma! 
+[13] Si me concentro, ¡puedo devolver cualquier \npelota con la técnica Shukuchi! 
+[14] ...No te sigo. 
+[15] ¿Qué? ¡Debes mantener la pelota en la cancha si \nquieres ganar! 
+[16] ¡Prestar atención es como jugar una partida de \ntenis! ¡Debes usar todo tu cuerpo! 
+[17] Tus ojos, orejas... ¡pero no la boca! 
+[18] Tenis, ¿eh? ¿Acaso ese es tu talento? 
+[19] ¡Oh, claro! Soy Tenko Chabashira, ¡<CLT=cltSTRONG>Profesional \nDe Tenis Definitiva<CLT=cltNORMAL>! ¡HAAAH! 
+[20] ¡¿Por qué estas gritando tanto en una \nbiblioteca?! 
+[21] <CLT=cltMIND>Lo dice la que está gritando... 
+[22] Aaaahhh... P-perdón... No era mi intención... 
+[23] Quería quedarme en el comedor pero ese tipo \ndegenerado siguió a esa chica adentro... 
+[24] Y al final la chica me gritó por abofetearlo... 
+[25] Nyeeeh... Es molesta. 
+[26] ¡Lo siento! ¡Hoy estoy haciendo enojar a todo \nmundo! 
+[27] Aaaahhh... Makiharu, ¡ayúdame! ¿Cómo podría \ndisculparme con... con...? 
+[28] ...Himiko. Y mi nombre es Maki... 
+[29] Ahh... Siempre meto la pata cuando estoy cerca \nde chicas lindas... 
+[30] <CLT=cltMIND>¿Linda? Vaya, esa sí que es nueva. 
+[31] <CLT=cltSYSTEM>La <CLT=cltSTRONG>Ficha de Estudiante<CLT=cltSYSTEM> de Tenko fue actualizada \nsegún tu interacción con ella. 
+[32] En la biblioteca, no hay que hacer ruido...\nEn la biblioteca, no hay que hacer ruido...
+[33] ¡EN LA BIBLIOTECA, NO HAY QUE HACER \nRUIDO! 
+[34] <CLT=cltMIND>Mis oídos... 
+[35] Cuidado con el sonido de tu voz... está subiendo \nmucho... 
+[36] ¡AAAH! ¡LO SIENTO! 
+[37] Ay, ¡ya cállate de una vez! 
+[38] <CLT=cltMIND>Ha pasado tiempo... desde que estuve atrapada \nen una habitación llena de niños ruidosos.... 
+[39] <CLT=cltMIND>Aquella persona de allí podría ser un estudiante \n<CLT=cltSTRONG>Definitivo<CLT=cltMIND>. Debería preguntarle. 
+[40] Sí 
+[41] No 
+[42] ¿Estas dudando? 
+[43] <CLT=cltSYSTEM>¿Deseas salir? 
+[44] <CLT=cltMIND>No entiendo porque una escuela tendría un \nmonitor como este... 
+[45] <CLT=cltMIND>Tantos libros... estan muy apretados en los \nestantes... 
+[46] <CLT=cltMIND>Apenas puedo meter los dedos entre ellos. No \nparece cómodo leer aquí. 
+[47] <CLT=cltMIND>Hay libros sobre todo tipo de idioma... 
+[48] <CLT=cltMIND>"L'Étranger", "Das Parfum", "Prestupleniye\ni nakazaniye", "Alf Laylah wa-Laylah"...
+[49] <CLT=cltMIND>...Tengo un mal presentimiento sobre estos \nlibros... 
+[50] <CLT=cltMIND>Abrí uno de ellos para pegarle una mirada... 
+[51] Lorem ipsum dolor sit amet,\nconsectetur adipiscing elit...
+[52] ...Espera un segundo, ¡esto no tiene sentido! 
+[53] <CLT=cltMIND>Es una escalera. No parece buena idea subirla \nusando falda... 
+[54] <CLT=cltMIND>Una rejilla de ventilación. Me pregunto si una \npersona podría caber dentro... 
+[55] <CLT=cltMIND>Hay estanterías por todas partes aquí. 
+[56] <CLT=cltMIND>Un globo terráqueo... Es reconfortantemente \nfamiliar. 
+[57] <CLT=cltMIND>Hasta hay libros encima de las estanterías. \nSupongo que será útil la escalera. 
+[58] 
+[59] 
+[60] 
+[61] 
+[62] 
+[63] 
+[64] 
+[65] 
+[66] 
+[67] 
+[68] 
+[69] 
+[70] 
+[71] 
+[72] 
+[73] 
+[74] 
+[75] 
+[76] 
+[77] 
+[78] 
+[79] 
+[80] 
+[81] 
+[82] 
+[83] 
+[84] 
+[85] 
+[86] 
+[87] 
+[88] 
+[89] 
+[90] 
+[91] 
+[92] 
+[93] 
+[94] 
+[95] 
+[96] 
+[97] 
+[98] 
+[99] 
+[100] 
+[101] 
+[102] 
+[103] 
+[104] 
+[105] 
+[106] 
+[107] 
+[108] 
+[109] 
+[110] 
+[111] 
+[112] 
+[113] 
+[114] 
+[115] 
+[116] 
+[117] 
+[118] 
+[119] 
+[120] 
+[121] 
+[122] 
+[123] 
+[124] 
+[125] 
+[126] 
+[127] 
+[128] 
+[129] 
+[130] 
+[131] 
+[132] 
+[133] 
+[134] 
+[135] 
+[136] 
+[137] 
+[138] 
+[139] 
+[140] 
+[141] 
+[142] 
+[143] 
+[144] 
+[145] 
+[146] 
+[147] 
+[148] 
+[149] 
+[150] 
+[151] 
+[152] 
+[153] 
+[154] 
+[155] 
+[156] 
+[157] 
+[158] 
+[159] 
+[160] 
+[161] 
+[162] 
+[163] 
+[164] 
+[165] 
+[166] 
+[167] 
+[168] 
+[169] 
+[170] 
+[171] 
+[172] 
+[173] 
+[174] 
+[175] 
+[176] 
+[177] 
+[178] 
+[179] 
+[180] 
+[181] 
+[182] 
+[183] 
+[184] 
+[185] 
+[186] 
+[187] 
+[188] 
+[189] 
+[190] 
+[191] 
+[192] 
+[193] 
+[194] 
+[195] 
+[196] 
+[197] 
+[198] 
+[199] 
+[200] 
+}

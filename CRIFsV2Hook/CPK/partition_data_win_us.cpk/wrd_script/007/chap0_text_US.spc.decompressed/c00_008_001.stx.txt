@@ -1,0 +1,203 @@
+{
+[0] Estas rejas no estaban abiertas antes, ¿verdad? 
+[1] No lo creo. ¿Quizás ese tipo de pelo verde tenga \nalgo que ver en esto? 
+[2] Él fue quien dijo que quería salir afuera... 
+[3] <CLT=cltMIND>Parece haber alguien ahora mismo en este... \nvestíbulo de entrada. 
+[4] <CLT=cltMIND>Debería ir a saludarlos... 
+[5] Ey, disculpa... 
+[6] ... 
+[7] <CLT=cltMIND>¿Eh? No responde. 
+[8] H-hola. Me llamo Maki— 
+[9] Te preguntas, "¿quién es este?" Sí... Debería \naclarar eso primero. 
+[10] Mi nombre es Korekiyo Shinguji... Soy el \n<CLT=cltSTRONG>Cosplayer Definitivo<CLT=cltNORMAL>. 
+[11] Si lo deseas, puedes llamarme Kiyo en su lugar. 
+[12] ¿Un cosplayer? Es un talento bastante único. 
+[13] Nyeh... ¿De quién estas haciendo cosplay ahora \nmismo...? 
+[14] Pues, de mí, por supuesto. 
+[15] Bromeo, bromeo... Me parece inconcebible \nhacer cosplay de personas reales. 
+[16] Lamentablemente, este outfit fue el primer \ncosplay que alguna vez usé... 
+[17] Y desde entonces, debo decir que se ha vuelto \nalgo parecido a mi propia piel. 
+[18] Lo uso más seguido que cualquier otro cosplay de \nmi colección. 
+[19] <CLT=cltMIND>...Solo puedo preguntarme si lo lava. 
+[20] Está genial y todo... pero, ¡¿quién es el \npersonaje?! 
+[21] Korekiyo Shinguji. 
+[22] ...¡¿Qué?! 
+[23] Este personaje, por casualidad, comparte mi \nnombre. 
+[24] Quizás tenga algo que ver con el por qué me siento \ntan cómodo haciendo cosplay de él. 
+[25] Kejejeje... Qué interesante coincidencia, ¿no lo \ncrees? 
+[26] <CLT=cltMIND>No realmente... a mí me suena más bien a \nsospechoso. 
+[27] De todos modos, ¿qué hay detrás de esa puerta? \n¿Es... realmente el exterior? 
+[28] Eso tendrás que verlo por tí misma. 
+[29] Sí... una historia realmente fascinante está por \ndesatarse. 
+[30] <CLT=cltMIND>Este tipo es raro, por decir lo menos. 
+[31] <CLT=cltSYSTEM>La <CLT=cltSTRONG>Ficha de Estudiante<CLT=cltSYSTEM> de Korekiyo fue \nactualizada según tu interacción con él. 
+[32] Qué rarito... 
+[33] La apertura a una historia realmente fascinante... 
+[34] Keje... Kejejeje... 
+[35] Así que esto lleva al... "afuera". 
+[36] <CLT=cltMIND>Conociendo nuestra situación, asumí que la \npuerta realmente conducía a un patio... 
+[37] <CLT=cltMIND>Pero nada que pudiera predecir me podría haber \npreparado para lo que ví. 
+[38] 
+[39] 
+[40] 
+[41] 
+[42] 
+[43] 
+[44] 
+[45] 
+[46] 
+[47] 
+[48] 
+[49] 
+[50] 
+[51] 
+[52] 
+[53] 
+[54] 
+[55] 
+[56] 
+[57] 
+[58] 
+[59] 
+[60] 
+[61] 
+[62] 
+[63] 
+[64] 
+[65] 
+[66] 
+[67] 
+[68] 
+[69] 
+[70] 
+[71] 
+[72] 
+[73] 
+[74] 
+[75] 
+[76] 
+[77] 
+[78] 
+[79] 
+[80] 
+[81] 
+[82] 
+[83] 
+[84] 
+[85] 
+[86] 
+[87] 
+[88] 
+[89] 
+[90] 
+[91] 
+[92] 
+[93] 
+[94] 
+[95] 
+[96] 
+[97] 
+[98] 
+[99] 
+[100] 
+[101] 
+[102] 
+[103] 
+[104] 
+[105] 
+[106] 
+[107] 
+[108] 
+[109] 
+[110] 
+[111] 
+[112] 
+[113] 
+[114] 
+[115] 
+[116] 
+[117] 
+[118] 
+[119] 
+[120] 
+[121] 
+[122] 
+[123] 
+[124] 
+[125] 
+[126] 
+[127] 
+[128] 
+[129] 
+[130] 
+[131] 
+[132] 
+[133] 
+[134] 
+[135] 
+[136] 
+[137] 
+[138] 
+[139] 
+[140] 
+[141] 
+[142] 
+[143] 
+[144] 
+[145] 
+[146] 
+[147] 
+[148] 
+[149] 
+[150] 
+[151] 
+[152] 
+[153] 
+[154] 
+[155] 
+[156] 
+[157] 
+[158] 
+[159] 
+[160] 
+[161] 
+[162] 
+[163] 
+[164] 
+[165] 
+[166] 
+[167] 
+[168] 
+[169] 
+[170] 
+[171] 
+[172] 
+[173] 
+[174] 
+[175] 
+[176] 
+[177] 
+[178] 
+[179] 
+[180] 
+[181] 
+[182] 
+[183] 
+[184] 
+[185] 
+[186] 
+[187] 
+[188] 
+[189] 
+[190] 
+[191] 
+[192] 
+[193] 
+[194] 
+[195] 
+[196] 
+[197] 
+[198] 
+[199] 
+[200] 
+}
