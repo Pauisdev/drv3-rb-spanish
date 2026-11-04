@@ -1,0 +1,9 @@
+{
+  "FontName": "FOT-HummingStd-D.otf",
+  "Charset": " !\u0022#$%\u0026\u0027()*\u002B,-./0123456789:;\u003C=\u003E?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_\u0060abcdefghijklmnopqrstuvwxyz{|}~\u00A1\u00AE\u00BF\u00C1\u00C9\u00CD\u00D1\u00D3\u00D7\u00DA\u00E1\u00E9\u00ED\u00F1\u00F3\u00FA\u2014\u2015\u2019\u2026\u203B\u2120\u2122\u2190\u2192\u21D4\u25A0\u25A1\u25B2\u25B3\u25CB\u25CF\u2606\u266A\u3000\u3010\u3011\u306E\u30FB\u30FC\u32A4\u32A6\u32A7\u32A8\u4E0A\u4E0B\u5168\u5200\u56DE\u65E5\u672C\u67F5\u7B94\u91D1",
+  "ScaleFlag": 2621487,
+  "Resources": [
+    "db_font00_US_win.bmp",
+    "font_table"
+  ]
+}
