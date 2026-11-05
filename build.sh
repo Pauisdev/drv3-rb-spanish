@@ -63,8 +63,12 @@ if [ $? != 0 ]; then
 fi
 echo -e "${C_OK}[OK]${F_RESET} HarmonyTools seems to be on path."
 echo ""
-read -p "* DRV3's path: " drv3_path
-read -p "* Resolute rebellion's path: " rb_path
+if [ "$drv3_path" = "" ]; then
+    read -p "* DRV3's path: " drv3_path
+fi
+if [ "$rb_path" = "" ]; then
+    read -p "* Resolute rebellion's path: " rb_path
+fi
 
 # If out folder already exists
 if [ -e "out" ]; then
