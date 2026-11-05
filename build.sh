@@ -61,13 +61,15 @@ if [ $AUTO_CONFIRM = false ]; then
     fi
 fi
 
-echo -e "${C_THINK}[CHECK]${F_RESET} Checking if HarmonyTools is available..."
-HarmonyTools --version > /dev/null
+printf "${C_THINK}[CHECK]${F_RESET} Checking if HarmonyTools is available..."
+HarmonyTools --version &> /dev/null
 if [ $? != 0 ]; then
+    printf "${C_FAIL} [FAIL]"
+    echo ""
     echo -e "${C_FAIL}[FAIL]${F_RESET} HarmonyTools failed running. Is it on path?"
     exit 1
 fi
-echo -e "${C_OK}[OK]${F_RESET} HarmonyTools seems to be on path."
+printf "${C_OK} [OK]"
 echo ""
 if [ "$drv3_path" = "" ]; then
     read -p "* DRV3's path: " drv3_path
