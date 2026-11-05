@@ -72,10 +72,12 @@ fi
 printf "${C_OK} [OK]"
 echo ""
 if [ "$drv3_path" = "" ]; then
-    read -p "* DRV3's path: " drv3_path
+    printf "${C_OK2}[INPUT] ${F_RESET}DRV3's path is... ${C_GREY}"
+    read drv3_path
 fi
 if [ "$rb_path" = "" ]; then
-    read -p "* Resolute rebellion's path: " rb_path
+    printf "${C_OK2}[INPUT] ${F_RESET}Resolute rebellion's path is... ${C_GREY}"
+    read rb_path
 fi
 
 # If out folder already exists
