@@ -90,18 +90,32 @@ cp ModConfig.json $mod
 mkdir $mod/CRIFsV2Hook
 tree -dfi --noreport CRIFsV2Hook | grep -v ".decompressed" | xargs -I{} mkdir -p "$mod/{}"
 
+####################################
+# wrd_script
+####################################
+printf "${C_THINK}[WORK] ${F_RESET}Replacing script... "
+
 # Copy Resolute Rebellion chap0_text_US.SPC
 cp "$rb_path/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.SPC" "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007"
 # Extract chap0_text_US.SPC
-HarmonyTools spc extract -f "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.SPC"
+HarmonyTools spc extract -f "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.SPC" > /dev/null
 # That generates the folder $mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed
 # Bring script over there
 cp "CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed/"* "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed"
 # Pack script
-HarmonyTools stx pack -b "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed"
+HarmonyTools stx pack -b "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed" > /dev/null
 # Remove no longer necessary .stx.txt files
 find "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed" -name "*.stx.txt" -type f -delete
 # Pack SPC
-HarmonyTools spc pack -f "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed"
+HarmonyTools spc pack -f "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed" > /dev/null
 # Remove .spc.decompressed folder
 rm -rf "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed"
+
+printf "${C_OK}[OK]"
+echo ""
+
+####################################
+# End
+####################################
+echo ""
+echo -e "${C_OK2}${F_BOLD}[DONE] All done! Output mod has been placed inside 'out' folder."
