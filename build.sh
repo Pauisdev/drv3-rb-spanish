@@ -41,6 +41,13 @@ if [ -e "out" ]; then
     fi
     rm -rf out
 fi
+
+# Copy folder structure
 mkdir out
-mkdir out/drv3.es-translation.resolute-rebellion
-cp ModConfig.json out/drv3.es-translation.resolute-rebellion
+mod="out/drv3.es-translation.resolute-rebellion"
+mkdir $mod
+cp ModConfig.json $mod
+mkdir $mod/CRIFsV2Hook
+tree -dfi --noreport CRIFsV2Hook | grep -v ".decompressed" | xargs -I{} mkdir -p "$mod/{}"
+HarmonyTools spc extract -f $rb_path/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.SPC
+cp CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed/* $rb_path/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed
