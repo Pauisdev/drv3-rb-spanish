@@ -15,7 +15,7 @@ manual () {
     echo -e "    ${C_OK2}${F_BOLD}-h, --help ${F_RESET}${C_GREY}           Show this manual"
 }
 
-while [ $1 != "" ]; do
+while [ "$1" != "" ]; do
     case $1 in
         -v | --v3_path)
             shift # Remove --v3_path from $1 and move onto the next argument
