@@ -10,10 +10,13 @@ C_OK2="\033[38;5;6m"
 manual () {
     echo -e "${C_OK}${F_BOLD}Resolute Rebellion's spanish building tool."
     echo -e "${C_OK2}Options:"
-    echo -e "    -v, --v3_path ${F_RESET}${C_GREY}        Set V3's path"
+    echo -e "    ${C_OK2}${F_BOLD}-v, --v3_path ${F_RESET}${C_GREY}        Set V3's path"
     echo -e "    ${C_OK2}${F_BOLD}-r, --resolute_path ${F_RESET}${C_GREY}  Set Resolute Rebellion's path"
+    echo -e "    ${C_OK2}${F_BOLD}-a, --auto ${F_RESET}${C_GREY}           Auto confirm all actions"
     echo -e "    ${C_OK2}${F_BOLD}-h, --help ${F_RESET}${C_GREY}           Show this manual"
 }
+
+AUTO_CONFIRM=false
 
 while [ "$1" != "" ]; do
     case $1 in
@@ -24,6 +27,10 @@ while [ "$1" != "" ]; do
         -r | --resolute_path)
             shift
             rb_path=$1
+            ;;
+        -a | --auto)
+            shift
+            AUTO_CONFIRM=true
             ;;
         -h | --help)
             manual   
@@ -39,20 +46,19 @@ while [ "$1" != "" ]; do
     shift # Move onto the next argument
 done
 
-echo "Drv3 path: $drv3_path"
-echo "Rb path: $rb_path"
-
-echo -e "${C_FAIL}${F_BOLD}Running this program requires:${F_RESET}${C_FAIL}"
-echo -e "* A clean copy of DRV3"
-echo -e "* A clean copy of Resolute Rebellion" 
-echo -e "* HarmonyTools on path"
-echo ""
-printf "${C_GREY}Continue? [y/N] ${F_RESET}"
-read -n 1 answer
-echo ""
-if [ "$answer" != "y" ] && [ "$answer" != "Y" ]; then
-    echo -e "${C_GREY}Program aborted by user."
-    exit 1
+if [ $AUTO_CONFIRM = false ]; then
+    echo -e "${C_FAIL}${F_BOLD}Running this program requires:${F_RESET}${C_FAIL}"
+    echo -e "* A clean copy of DRV3"
+    echo -e "* A clean copy of Resolute Rebellion" 
+    echo -e "* HarmonyTools on path"
+    echo ""
+    printf "${C_GREY}Continue? [y/N] ${F_RESET}"
+    read -n 1 answer
+    echo ""
+    if [ "$answer" != "y" ] && [ "$answer" != "Y" ]; then
+        echo -e "${C_GREY}Program aborted by user."
+        exit 1
+    fi
 fi
 
 echo -e "${C_THINK}[CHECK]${F_RESET} Checking if HarmonyTools is available..."
@@ -72,16 +78,20 @@ fi
 
 # If out folder already exists
 if [ -e "out" ]; then
-    printf "${C_FAIL}[!] Out folder already exists. ${C_GREY}Overwrite? [y/N] ${F_RESET}"
-    read -n 1 answer
-    echo ""
-    if [ "$answer" != "y" ] && [ "$answer" != "Y" ]; then
-        echo -e "${C_GREY}Program aborted by user."
-        exit 1
+    if [ $AUTO_CONFIRM = false ]; then
+        printf "${C_FAIL}[!] Out folder already exists. ${C_GREY}Overwrite? [y/N] ${F_RESET}"
+        read -n 1 answer
+        echo ""
+        if [ "$answer" != "y" ] && [ "$answer" != "Y" ]; then
+            echo -e "${C_GREY}Program aborted by user."
+            exit 1
+        fi
     fi
     rm -rf out
 fi
 
+echo -e "${C_OK2}[START] ${F_RESET}Starting mod building... "
+printf "${C_THINK}[WORK] ${F_RESET}Copying folder structure... "
 # Copy folder structure
 mkdir out
 mod="out/drv3.es-translation.resolute-rebellion"
@@ -89,6 +99,8 @@ mkdir $mod
 cp ModConfig.json $mod
 mkdir $mod/CRIFsV2Hook
 tree -dfi --noreport CRIFsV2Hook | grep -v ".decompressed" | xargs -I{} mkdir -p "$mod/{}"
+printf "${C_OK}[OK]"
+echo ""
 
 ####################################
 # wrd_script
