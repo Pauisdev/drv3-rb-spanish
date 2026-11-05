@@ -91,17 +91,17 @@ mkdir $mod/CRIFsV2Hook
 tree -dfi --noreport CRIFsV2Hook | grep -v ".decompressed" | xargs -I{} mkdir -p "$mod/{}"
 
 # Copy Resolute Rebellion chap0_text_US.SPC
-cp $rb_path/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.SPC $mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007
+cp "$rb_path/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.SPC" "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007"
 # Extract chap0_text_US.SPC
-HarmonyTools spc extract -f $mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.SPC
+HarmonyTools spc extract -f "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.SPC"
 # That generates the folder $mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed
 # Bring script over there
-cp CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed/* $mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed
+cp "CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed/"* "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed"
 # Pack script
-HarmonyTools stx pack -b $mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed
+HarmonyTools stx pack -b "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed"
 # Remove no longer necessary .stx.txt files
-find $mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed -name "*.stx.txt" -type f -delete
+find "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed" -name "*.stx.txt" -type f -delete
 # Pack SPC
-HarmonyTools spc pack -f $mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed
+HarmonyTools spc pack -f "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed"
 # Remove .spc.decompressed folder
-rm $mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed
+rm -rf "$mod/CRIFsV2Hook/CPK/partition_data_win_us.cpk/wrd_script/007/chap0_text_US.spc.decompressed"
